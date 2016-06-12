@@ -63,6 +63,5 @@ moles-packer --input /path/to/project --entry index.ios.js --output /path/to/bui
 
 
 
-~~`源码近期会放出，各位敬请期待哦。`~~
+`源码近期会放出，各位敬请期待哦。`
 
-`该项目已开源，源码为source目录。`
