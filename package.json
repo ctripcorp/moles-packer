@@ -1,0 +1,35 @@
+{
+    "name": "moles-packer",
+    "version": "0.1.0",
+    "description": "A tool for react native bundle unpack by Ctrip framework team",
+    "main": "index.js",
+    "homepage": "https://github.com/ctrip-moles/moles-packer#readme",
+    "scripts": {
+        "install": "node preinstall.js"
+    },
+    "bin": {
+        "moles-packer": "./bin/output"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ctrip-moles/moles-packer.git"
+    },
+    "bugs": {
+      "url": "https://github.com/ctrip-moles/moles-packer/issues"
+    },
+    "keywords": [
+      "react",
+      "react-native",
+      "packager",
+      "moles",
+      "packer",
+      "ctrip",
+      "bundle",
+      "react-native-bundle"
+    ],
+    "dependencies": {
+
+    },
+    "author": "ctrip-moles@ctrip.com",
+    "license": "MIT"
+}
