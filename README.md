@@ -47,11 +47,25 @@ moles-packer --input /path/to/project --entry index.ios.js --output /path/to/bui
 
 4、moles-packer --input ./ --entry index.ios.js --output ./build --bundle bu.jsbundle --common true
  
+执行完上述命令后，会看到在根目录下生成一个build文件夹，且里面有bu.jsbundle和common.jsbundle两个文件
+
 5、将build目录添加到项目中
 
-6、react-native run-ios
+6、执行react-native run-ios
 
 ```
+##逐步开放的功能
+
+1、common bundle的生成可配置
+
+2、业务模块拆成多个bundle模块
+
+3、iOS支持load和merge拆包模块提供
+
+4、Android支持load和merge拆包模块提供
+
+
+
 
 ##欢迎加入我们
 
