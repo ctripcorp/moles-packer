@@ -7,8 +7,8 @@ var MODULE_REQUIRE
 	, imageminPngquant = require('imagemin-pngquant')
 	, imageSize = require('image-size')
 	, swig = require('swig')
-	, yuan = require('@ctrip/yuan')
-	, yuancon = require('@ctrip/yuan-console')
+	, yuan = require('yuan')
+	, yuancon = require('yuan-console')
 	;
 
 var IMAGE_POSTFIXES = [

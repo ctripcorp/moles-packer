@@ -75,7 +75,7 @@ moles-packer
 
 2、支持除react、react-native意外的业务代码打成bu.jsbundle
 
-## 带完成功能
+## 待完成功能
 
 1、common bundle的生成可配置
 
