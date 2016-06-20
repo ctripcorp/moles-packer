@@ -29,11 +29,11 @@ moles-packer --help
 在React Native项目根目录下执行命令
 
 ```
-moles-packer 
-	--input /path/to/project 
-	--entry index.ios.js 
-	--output /path/to/build 
-	--bundle bu.bundle 
+moles-packer
+	--input /path/to/project
+	--entry index.ios.js
+	--output /path/to/build
+	--bundle bu.bundle
 	--common true
 ```
 参数说明：
@@ -55,10 +55,10 @@ moles-packer
 
 3、npm install
 
-4、moles-packer 
-	--input ./ --entry index.ios.js 
-	--output ./build 
-	--bundle bu.jsbundle 
+4、moles-packer
+	--input ./ --entry index.ios.js
+	--output ./build
+	--bundle bu.jsbundle
 	--common true
 
 执行完上述命令后，会看到在根目录下生成一个build文件夹，且里面有bu.jsbundle和common.jsbundle两个文件
@@ -73,7 +73,7 @@ moles-packer
 
 1、支持react、react-native打成common.jsbundle
 
-2、支持除react、react-native意外的业务代码打成bu.jsbundle
+2、支持除react、react-native以外的业务代码打成bu.jsbundle
 
 ## 待完成功能
 
@@ -137,7 +137,7 @@ dev:
 
 		1、有用户放映每次会在RNProjec下产生“__moles_common.js”的，该版本修复此问题
 		2、添加后续开放的功能信息
-		
+
 
 +	0.1.3版本
 
@@ -160,4 +160,3 @@ dev:
 ~~`源码近期会放出，各位敬请期待哦。`~~
 
 `源码以放出，为source目录`
-
