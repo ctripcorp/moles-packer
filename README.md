@@ -18,7 +18,7 @@ moles-pack-common -v
 #	Run in CLI
 
 ```bash
-# create an 
+# create an
 react-native init rn26
 
 # build the project by Moles Packer
@@ -29,7 +29,7 @@ moles-pack \
 	--bundle
 ```
 
-#	Invoked via Node.js
+#	Node.js API
 
 ```javascript
 var mp = require('moles-packer');
