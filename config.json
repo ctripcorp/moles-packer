@@ -1,0 +1,17 @@
+{
+	"metaExtname": ".meta.json",
+
+	"path": {
+		"assets": "assets",
+		"assetModules": "asset_modules",
+		"entry": "index.js",
+		"bundle": "index.jsbundle",
+		"commonBundle": "common.jsbundle"
+	},
+
+	"symbol": {
+		"define": "global.define",
+		"execRequire": "global.re2",
+		"registerComponent": "global.changeComponent"
+	}
+}
