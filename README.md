@@ -40,7 +40,7 @@ var options = {
     'bundle'        : true,
     'common-bundle' : true
     };
-mp(options, function(err) {
+mp.pack(options, function(err) {
     // !err means build success.
 });
 ```
