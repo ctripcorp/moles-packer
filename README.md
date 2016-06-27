@@ -15,7 +15,7 @@ moles-pack -v
 moles-pack-common -v
 ```
 
-#	Run in CLI
+#	Run In CLI
 
 ```bash
 # create an
@@ -50,11 +50,11 @@ mp(options, function(err) {
 *	[Moles Unprofessional Guide](https://youngoat.gitbooks.io/moles-unprofessional-guide/content/en/)
 *	[Moles 非权威指南](https://youngoat.gitbooks.io/moles-unprofessional-guide/content/zh-cn/)
 
-#	About us
+#	About Us
 
 __Moles__ is developed and maintained by Framework R&D from [ctrip.com](http://www.ctrip.com/).
 
+Any questions, please send mail to <ctrip-moles@ctrip.com>.
+
 Welcome to follow us in WeChat:  
 ![CtripMoles](./qrcode.jpg)
-
-Any questions, please send mail to <ctrip-moles@ctrip.com>.

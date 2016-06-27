@@ -1,48 +1,49 @@
 {
-	"name": "moles-packer",
-	"version": "0.1.9",
-	"description": "Builder for React Native projects.",
-	"main": "index.js",
-	"homepage": "https://github.com/ctripcorp/moles-packer/#readme",
-	"bin": {
-		"moles-pack": "bin/pack.js",
-		"moles-pack-common": "bin/packCommon.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctripcorp/moles-packer.git"
-	},
-	"bugs": {
-		"url": "https://github.com/ctripcorp/moles-packer/issues"
-	},
-	"keywords": [
-		"react",
-		"react-native",
-		"moles",
-		"builder",
-		"ctrip",
-		"bundle"
-	],
-	"dependencies": {
-		"babel-core": "^6.8.0",
-		"babel-plugin-transform-es5-property-mutators": "^6.8.0",
-		"babel-preset-es2015": "^6.9.0",
-		"babel-preset-react": "^6.5.0",
-		"babel-preset-react-native": "^1.8.0",
-		"babel-preset-stage-0": "^6.5.0",
-		"babel-preset-stage-1": "^6.5.0",
-		"babel-preset-stage-2": "^6.5.0",
-		"babel-preset-stage-3": "^6.5.0",
-		"babelify": "^7.3.0",
-		"image-size": "^0.5.0",
-		"imagemin": "^5.2.1",
-		"imagemin-pngquant": "^5.0.0",
-		"minimist": "^1.2.0",
-		"swig": "^1.4.2",
-		"uglify-js": "^2.6.2",
-		"yuan": "*",
-		"yuan-console": "*"
-	},
-	"author": "ctrip-moles@ctrip.com",
-	"license": "MIT"
+  "name": "moles-packer",
+  "version": "0.1.9",
+  "description": "Builder for React Native projects.",
+  "main": "index.js",
+  "homepage": "https://github.com/ctripcorp/moles-packer/#readme",
+  "bin": {
+    "moles-pack": "bin/pack.js",
+    "moles-pack-common": "bin/packCommon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctripcorp/moles-packer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ctripcorp/moles-packer/issues"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "moles",
+    "builder",
+    "ctrip",
+    "bundle"
+  ],
+  "dependencies": {
+    "babel-core": "^6.8.0",
+    "babel-plugin-transform-class-properties": "^6.10.2",
+    "babel-plugin-transform-es5-property-mutators": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-react-native": "^1.8.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-1": "^6.5.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "babel-preset-stage-3": "^6.5.0",
+    "babelify": "^7.3.0",
+    "image-size": "^0.5.0",
+    "imagemin": "^5.2.1",
+    "imagemin-pngquant": "^5.0.0",
+    "minimist": "^1.2.0",
+    "swig": "^1.4.2",
+    "uglify-js": "^2.6.2",
+    "yuan": "*",
+    "yuan-console": "*"
+  },
+  "author": "ctrip-moles@ctrip.com",
+  "license": "MIT"
 }

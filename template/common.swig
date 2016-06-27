@@ -1,19 +1,23 @@
 ;(function(global) {
-	var global = (function() { return this; })();
+    var
+          react = require('react')
+        , reactNative = require('react-native')
+        , global = (function() { return this; })()
+        ;
 
-	global._MOLES = {};
+    global._MOLES = {};
 
 	{% for name in names %}
 	global._MOLES.{{ name | replace('-', '_', 'g') }} = require('{{ name }}');
 	{% endfor %}
 
-	var Fake = global.react.createClass({
+	var Fake = react.createClass({
 		getInitialState: function() {
 			var that = this;
 
 			global.changeComponent = function(ComponentClass) {
 				that.setState({
-					component: global.react.createElement(ComponentClass)
+					component: react.createElement(ComponentClass)
 				});
 			};
 
@@ -23,15 +27,15 @@
 		},
 
 		render: function() {
-			return this.state.component || global.react.createElement(global.reactNative.View);
+			return this.state.component || react.createElement(reactNative.View);
 		}
 	});
 
 	var lastComponent = null;
 
 	global.changeComponent = function(component){
-		lastComponent = global.react.createElement(component);
+		lastComponent = react.createElement(component);
 	};
 
-	global.reactNative.AppRegistry.registerComponent('MOLES', function() { return Fake; });
+	reactNative.AppRegistry.registerComponent('MOLES', function() { return Fake; });
 })(this);
