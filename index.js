@@ -23,7 +23,9 @@ _ME.pack = function(options, callback) {
         err ? _reject(err) : _resolve();
         if (callback) callback.apply(null, arguments);
     };
-    options.base = process.cwd();
+    if (!options.base) {
+        options.base = process.cwd();
+    }
 
 	parseOptions(options, true);
 

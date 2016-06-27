@@ -8,7 +8,7 @@
     global._MOLES = {};
 
 	{% for name in names %}
-	global._MOLES.{{ name | replace('-', '_', 'g') }} = require('{{ name }}');
+	global._MOLES['{{ name | replace('-', '_', 'g') }}'] = require('{{ name }}');
 	{% endfor %}
 
 	var Fake = react.createClass({
