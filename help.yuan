@@ -1,0 +1,14 @@
+
+NAME
+	moles-packer - Build tool for React Native projects.
+
+SYNOPSIS
+	moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--output/ /param:BUILDED_DIRNAME/
+	moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--dev/
+	moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--standalone/
+	moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--common/ /param:COMMON_BUNDLE/
+	moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--exec-on-required/
+	moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--bundle/ /param:FILENAME/
+	moles-packer /em:--entry/ /param:ENTRY_FILENAME/ /em:--output/ /param:BUILDED_DIRNAME/
+	moles-packer /em:--help/
+	moles-packer /em:--version/
