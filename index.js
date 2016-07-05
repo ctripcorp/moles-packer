@@ -29,8 +29,12 @@ _ME.pack = function(options, callback) {
 
 	parseOptions(options, true);
 
-	var pack = require('./lib/pack');
-	pack();
+    var pack = require('./lib/pack');
+    try {
+        pack();
+    } catch(ex) {
+        options.callback(ex);
+    }
 
     return promise;
 };

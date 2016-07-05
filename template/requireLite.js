@@ -1,5 +1,6 @@
 ;(function() {
     var global = (function() { return this; })();
+    var amd = global.amd = {};
 
     var Module =  function() {
         this.exports = {};
@@ -12,7 +13,7 @@
         // global.reactNative.NativeModules.RequireLocal.loadPath(pathname, callback);
     };
 
-    global.requireJs = function REQUIRE(deps, callback, defer) {
+    amd.require = function REQUIRE(deps, callback, defer) {
         // @TODO 参数规范化
         var modules = new Array(deps.length), loaded = 0;
 
@@ -75,13 +76,13 @@
         });
     };
 
-    // re2 means Require and Return.
-    global.re2 = function REQUIRE_AND_RETURN(name) {
+    // re2 means to REquire what has been REquired, or RE-REquired.
+    amd.re2 = function REQUIRE_REQUIRED(name) {
         if (name == 'module') return new Module();
 
         var info = MODULE_INFOS[name];
         if (info.status != 'required') {
-            throw 'Unexpected invoking before required (' + name + ')';
+            throw '[MOLES_REQUIRE_LITE] Unexpected invoking before required (' + name + ')';
         }
         if (!info.hasOwnProperty('exports')) {
             info.exports = info.callback.apply(null, info.args);
@@ -89,8 +90,16 @@
         return info.exports;
     };
 
+    amd.export = function(/*String*/ name, /*MIXED*/ exports) {
+        MODULE_INFOS[name] = {
+            name: name,
+            status: 'required',
+            exports: exports
+        };
+    };
+
     // status: [loading] ... [defined] ... [required]
-    global.define = function(/*String*/ name, /*String*/ deps, /*Function*/ callback) {
+    amd.define = function(/*String*/ name, /*String*/ deps, /*Function*/ callback) {
         // @TODO 参数规范化
 
         /* name, json */
@@ -100,6 +109,19 @@
                 status: 'required',
                 exports: arguments[1]
             };
+            return;
+        }
+
+        /* name, callback */
+        if (arguments.length == 2 && typeof arguments[1] == 'function') {
+            MODULE_INFOS[name] = {
+                name: name,
+                deps: [],
+                callback: arguments[1],
+                args: [],
+                status: 'required'
+            };
+            return;
         }
 
         if (!MODULE_INFOS[name] || MODULE_INFOS[name].status == 'loading') {
@@ -114,9 +136,8 @@
 
     // This is just a placeholder.
     // Anytime "module" is required, a new instance of global.Module will be returned.
-    global.define('module', [], function() {
+    // @see amd.require()
+    amd.define('module', [], function() {
         return null;
     });
 })();
-
-var global = (function() { return this; })();

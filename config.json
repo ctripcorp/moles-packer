@@ -1,17 +1,17 @@
 {
-	"metaExtname": ".meta.json",
+    "metaExtname": ".meta.json",
 
-	"path": {
-		"assets": "assets",
-		"assetModules": "asset_modules",
-		"entry": "index.js",
-		"bundle": "index.jsbundle",
-		"commonBundle": "common.jsbundle"
-	},
+    "path": {
+        "assets": "assets",
+        "assetModules": "asset_modules",
+        "entry": "index.js",
+        "bundle": "index.jsbundle",
+        "commonBundle": "common.jsbundle"
+    },
 
-	"symbol": {
-		"define": "global.define",
-		"execRequire": "global.re2",
-		"registerComponent": "global.changeComponent"
-	}
+    "symbol": {
+        "define": "global.amd.define",
+        "execRequire": "global.amd.re2",
+        "registerComponent": "global.changeComponent"
+    }
 }
