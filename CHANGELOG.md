@@ -8,3 +8,4 @@ Since 2016-07-05 (version 0.2.0), all notable changes to this project will be do
 [CHANGELOG.md](./CHANGELOG.md) added.
 
 ### Changed
+By *Moles Pakcer*, the built-in command ```bundle``` of *react-native-cli* is used to create common bundle. In this version, we turned off the switch ```--dev``` when creating common bundle. The size of basic common bundle (whitout any other modules packed except *react* and *react-native*) will be reduced by about 100KB before gzipped.
