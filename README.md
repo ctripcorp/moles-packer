@@ -6,6 +6,8 @@ __Moles Packer__ is one of the key members in the __Moles__'s tool chain.
 
 #	Install
 
+[![NPM](https://nodei.co/npm/moles-packer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/moles-packer/)
+
 ```bash
 # install globally
 npm install -g moles-packer
