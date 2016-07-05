@@ -1,7 +1,5 @@
 #	What is it?
 
-1245
-
 [![Join the chat at https://gitter.im/ctripcorp/moles-packer](https://badges.gitter.im/ctripcorp/moles-packer.svg)](https://gitter.im/ctripcorp/moles-packer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 __Moles Packer__ is a light-weighted builder for React Native projects. You can create bundle(s), including a common (basic) bundle and one or more business bundles, from a standard React Native proejct. If pre-built common bundle supplied, you can also create business bundle from a stripped project (without ```ios```, ```android```, ```node_modules``` etc.).
