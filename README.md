@@ -4,7 +4,13 @@
 
 __Moles Packer__ is a light-weighted builder for *React Native* projects. You can create bundle(s), including a common (basic) bundle and one or more business bundles, from a standard React Native proejct. If pre-built common bundle supplied, you can also create business bundle from a stripped project (without ```ios```, ```android```, ```node_modules``` etc.).
 
-*Moles Packer* is one of the key members in the __Moles__'s tool chain. Together with growing *React Native*, *Moles Packer* is also under continuous development and improvement, see [ChangeLog](CHANGELOG.md) for more details.
+*Moles Packer* is one of the key members in the [__Moles__](https://ctrip-moles.github.io)'s tool chain.
+
+Together with growing *React Native*, *Moles Packer* is also under continuous development and improvement, see [ChangeLog](CHANGELOG.md) for more details.
+
+##  React Native Versions Supported
+
+*   0.28.0-rc0
 
 ##	Install
 
