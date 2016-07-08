@@ -1,6 +1,6 @@
 {
     "name": "moles-packer",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Builder for React Native projects.",
     "main": "index.js",
     "homepage": "https://github.com/ctripcorp/moles-packer/#readme",

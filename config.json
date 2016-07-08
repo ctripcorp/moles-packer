@@ -9,6 +9,8 @@
         "commonBundle": "common.jsbundle"
     },
 
+    "autoDetectEntry": true,
+
     "symbol": {
         "define": "global.amd.define",
         "execRequire": "global.amd.re2",
