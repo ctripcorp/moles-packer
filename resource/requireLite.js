@@ -1,3 +1,4 @@
+// DON'T REMOVE THIS LINE.
 ;(function() {
     var global = (function() { return this; })();
     var amd = global.amd = {};
@@ -10,7 +11,8 @@
     var MODULE_INFOS = {};
 
     var loadScript = function(pathname, callback) {
-        // global.reactNative.NativeModules.RequireLocal.loadPath(pathname, callback);
+        if (!amd.loadScript) throw 'amd.loadScript(pathname:string, callback:function) not defined.';
+        amd.loadScript(pathname, callback);
     };
 
     amd.require = function REQUIRE(deps, callback, defer) {
@@ -140,4 +142,6 @@
     amd.define('module', [], function() {
         return null;
     });
+
+    global.amd = amd;
 })();

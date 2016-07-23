@@ -1,8 +1,8 @@
 // Image Asset
-global.define('{{ moduleName }}', [ 'module' ], function(module) {
+{{ SYMBOL.define }}('{{ moduleName }}', [ 'module' ], function(module) {
     'use strict';
 
-    module.exports = require('AssetRegistry')
+    module.exports = {{ SYMBOL.execRequire }}('{{ AssetRegistry }}')
         .registerAsset({
             "httpServerLocation": "{{ asset.httpServerLocation }}",
             "width": {{ asset.width | default(1) }},

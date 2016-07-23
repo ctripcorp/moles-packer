@@ -11,6 +11,10 @@ Together with growing *React Native*, *Moles Packer* is also under continuous de
 ##  React Native Versions Supported
 
 *   0.28.0-rc0
+*   0.28.0
+*   0.29.0
+*   0.30.0-rc0
+*   0.30.0
 
 ##	Install
 
@@ -21,22 +25,23 @@ Together with growing *React Native*, *Moles Packer* is also under continuous de
 npm install -g moles-packer
 
 # command created
-moles-pack -v
-moles-pack-common -v
+moles-packer -v
+moles-packer-common -v
 ```
 
 ##	Run In CLI
 
 ```bash
 # create an
-react-native init rn26
+react-native init rn28 --version 0.28.0
 
 # build the project by Moles Packer
-moles-pack \
-	--input ./rn26 \
+moles-packer \
+	--input ./rn28 \
 	--entry index.ios.js \
 	--output ./build \
-	--bundle
+	--bundle \
+    --verbose
 ```
 
 ##	Node.js API
@@ -44,11 +49,10 @@ moles-pack \
 ```javascript
 var mp = require('moles-packer');
 var options = {
-    'input'         : './rn26',
+    'input'         : './rn28',
     'entry'         : 'index.ios.js',
     'output'        : './build',
-    'bundle'        : true,
-    'common-bundle' : true
+    'bundle'        : true
     };
 mp.pack(options, function(err) {
     // !err means build success.

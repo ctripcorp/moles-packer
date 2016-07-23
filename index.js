@@ -6,12 +6,14 @@
 'use strict';
 
 var LIB_REQUIRE
+    , cache = require('./lib/cache')
 	, parseOptions = require('./lib/parseOptions')
 	;
 
 var _ME = {};
 
 _ME.pack = function(options, callback) {
+    cache.reset();
     var _resolve, _reject;
 
     var promise = new Promise((resolve, reject) => {
