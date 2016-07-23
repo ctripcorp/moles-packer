@@ -6,7 +6,8 @@
     moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--output/ /param:BUILDED_DIRNAME/
     moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--dev/
     moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--standalone/
-    moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--common/ /param:COMMON_BUNDLE/
+    moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--common-bundle/ /param:COMMON_BUNDLE/
+    moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--common-meta/ /param:COMMON_META/
     moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--exec-on-required/
     moles-packer /em:--input/ /param:SOURCE_DIRNAME/ /em:--bundle/ /param:FILENAME/
     moles-packer /em:--help/
@@ -19,14 +20,13 @@
     project (without ios, android, node_modules etc.).
 
 /em:OPTIONS/
-    /em:--bundle/ filename
+    /em:--bundle/ [filename]
         Specify the filename of the business bundle to be packed out.
-
-    /em:--common/ filename
-        Provide a pre-built common bundle to be used on packing.
+        If this option omitted, every file in the project will be processed and
+        exported separately to the output directory.
 
     /em:--common-bundle/ filename
-        Specify the filename of the common bundle to be packed out.
+        Provide a pre-built common bundle to be used on packing.
 
     /em:--common-meta/ filename
         Provide the meta filename of a pre-built common bundle.
@@ -47,10 +47,12 @@
         Where to put the bundle(s) to be packed out.
 
     /em:--platform/ osname
-        Name of OS the bundle will be running on.
+        Name of OS the bundle will be running on. By default, "cross" is used as
+        to create cross-platform output.
 
     /em:--standalone/
-        Output combined bundle (common bundle + business bundle) which is able to run independently.
+        Output combined bundle (common bundle + business bundle) which is able to
+        run independently.
 
     /em:--verbose/
         Display detail information on packing.
@@ -59,4 +61,3 @@
     Triver YounGoat <youngoat@163.com>.
     Moles team <ctrip-moles@ctrip.com>.
     Framework R&D, ctrip.com.
-    

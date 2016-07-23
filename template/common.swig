@@ -1,10 +1,12 @@
-;var global = (function() { return this; }())
+// DON'T REMOVE THIS LINE.
+;
+{{ SYMBOL.global }}
 
 {{ AMD_CODE }}
 
 // pesudo entry component
 ;(function() {
-    var global = (function() { return this; })();
+    {{ SYMBOL.global }}
 
     var
           react = require('react')
@@ -20,7 +22,7 @@
         getInitialState: function() {
             var that = this;
 
-            global.changeComponent = function(ComponentClass) {
+            {{ SYMBOL.changeComponent }} = function(ComponentClass) {
                 that.setState({
                     component: react.createElement(ComponentClass)
                 });
@@ -38,15 +40,14 @@
 
     var lastComponent = null;
 
-    global.changeComponent = function(component){
+    {{ SYMBOL.changeComponent }} = function(component){
         lastComponent = react.createElement(component);
     };
 
-    global.molesRegister = function(componentName) {
+    var registered = false;
+    {{ SYMBOL.registerComponent }} = function(componentName) {
+        if (registered) return;
         reactNative.AppRegistry.registerComponent(componentName || 'MOLES', function() { return Fake; });
+        registered = true;
     };
-
-    {% for name in REDEFINED_MODULES %}
-    global.amd.define('{{ loop.key }}', function() { return require('{{ loop.key }}'); });
-    {% endfor %}
 })(this);

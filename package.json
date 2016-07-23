@@ -1,12 +1,12 @@
 {
     "name": "moles-packer",
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "Builder for React Native projects.",
     "main": "index.js",
     "homepage": "https://github.com/ctripcorp/moles-packer/#readme",
     "bin": {
-        "moles-pack": "bin/pack.js",
-        "moles-pack-common": "bin/packCommon.js"
+        "moles-packer": "bin/pack.js",
+        "moles-packer-common": "bin/packCommon.js"
     },
     "repository": {
         "type": "git",
@@ -35,12 +35,15 @@
         "babel-preset-stage-2": "^6.5.0",
         "babel-preset-stage-3": "^6.5.0",
         "babelify": "^7.3.0",
+        "colors": "^1.1.2",
         "image-size": "^0.5.0",
         "imagemin": "^5.2.1",
         "imagemin-pngquant": "^5.0.0",
         "minimist": "^1.2.0",
+        "semver": "^5.2.0",
+        "source-map": "^0.5.6",
         "swig": "^1.4.2",
-        "uglify-js": "^2.6.2",
+        "uglify-js": "^2.7.0",
         "yuan": "*",
         "yuan-console": "*"
     },
