@@ -1,40 +1,42 @@
 {
-    "title": "MOLES_PACKER",
-    "metaExtname": ".meta.json",
+	"title": "MOLES_PACKER",
+	"metaExtname": ".meta.json",
 
-    "path": {
-        "assets": "assets",
-        "assetModules": "asset_modules",
-        "entry": "index.js",
+	"version-range": ">= 0.28.0-rc0 <= 0.37.0",
 
-        "common": "moles.common",
+	"path": {
+		"assets": "assets",
+		"assetModules": "asset_modules",
+		"entry": "index.js",
 
-        "commonBundle": {
-            "ios": "common.ios.jsbundle",
-            "android": "common.android.jsbundle"
-        },
+		"common": "moles.common",
 
-        "commonMeta": {
-            "ios": "common.ios.json",
-            "android": "common.android.json",
-            "cross": "common.json"
-        },
+		"commonBundle": {
+			"ios": "common.ios.jsbundle",
+			"android": "common.android.jsbundle"
+		},
 
-        "bundle": {
-            "ios": "index.ios.jsbundle",
-            "android": "index.android.jsbundle",
-            "cross": "index.jsbundle"
-        }
-    },
+		"commonMeta": {
+			"ios": "common.ios.json",
+			"android": "common.android.json",
+			"cross": "common.json"
+		},
 
-    "autoDetectEntry": true,
+		"bundle": {
+			"ios": "index.ios.jsbundle",
+			"android": "index.android.jsbundle",
+			"cross": "index.jsbundle"
+		}
+	},
 
-    "symbol": {
-        "global": "var global = (function() { return this; })();",
-        "define": "global.amd.define",
-        "require": "global.amd.require",
-        "execRequire": "global.amd.re2",
-        "changeComponent": "global.molesChange",
-        "registerComponent": "global.molesRegister"
-    }
+	"autoDetectEntry": true,
+
+	"symbol": {
+		"global": "var global = (function() { return this; })();",
+		"define": "global.amd.define",
+		"require": "global.amd.require",
+		"execRequire": "global.amd.re2",
+		"changeComponent": "global.molesChange",
+		"registerComponent": "global.molesRegister"
+	}
 }

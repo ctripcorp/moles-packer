@@ -14,7 +14,9 @@ Together with growing *React Native*, *Moles Packer* is also under continuous de
 *   0.28.0
 *   0.29.0
 *   0.30.0-rc0
-*   0.30.0
+*	0.37.0 \*
+
+\* means this version got limited support.
 
 ##	Install
 
@@ -49,10 +51,10 @@ moles-packer \
 ```javascript
 var mp = require('moles-packer');
 var options = {
-    'input'         : './rn28',
-    'entry'         : 'index.ios.js',
-    'output'        : './build',
-    'bundle'        : true
+    'input'   : './rn28',
+    'entry'   : 'index.ios.js',
+    'output'  : './build',
+    'bundle'  : true
     };
 mp.pack(options, function(err) {
     // !err means build success.
