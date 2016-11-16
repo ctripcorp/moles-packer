@@ -1,12 +1,14 @@
 {
     "name": "moles-packer",
-    "version": "0.3.0",
+    "version": "0.4.1",
     "description": "Builder for React Native projects.",
     "main": "index.js",
     "homepage": "https://github.com/ctripcorp/moles-packer/#readme",
     "bin": {
         "moles-packer": "bin/pack.js",
-        "moles-packer-common": "bin/packCommon.js"
+        "moles-packer-common": "bin/packCommon.js",
+        "moles-pack": "bin/pack.js",
+        "moles-pack-common": "bin/packCommon.js"
     },
     "repository": {
         "type": "git",

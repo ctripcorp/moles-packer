@@ -1,6 +1,6 @@
 #   Moles Packer
 
-[![Join the chat at https://gitter.im/ctripcorp/moles-packer](https://badges.gitter.im/ctripcorp/moles-packer.svg)](https://gitter.im/ctripcorp/moles-packer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![Join the chat at https://gitter.im/ctripcorp/moles-packer](https://badges.gitter.im/ctripcorp/moles-packer.svg)](https://gitter.im/ctripcorp/moles-packer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 __Moles Packer__ is a light-weighted builder for *React Native* projects. You can create bundle(s), including a common (basic) bundle and one or more business bundles, from a standard React Native proejct. If pre-built common bundle supplied, you can also create business bundle from a stripped project (without ```ios```, ```android```, ```node_modules``` etc.).
 
@@ -14,7 +14,9 @@ Together with growing *React Native*, *Moles Packer* is also under continuous de
 *   0.28.0
 *   0.29.0
 *   0.30.0-rc0
-*   0.30.0
+*	0.37.0 \*
+
+\* means this version got limited support.
 
 ##	Install
 
@@ -49,10 +51,10 @@ moles-packer \
 ```javascript
 var mp = require('moles-packer');
 var options = {
-    'input'         : './rn28',
-    'entry'         : 'index.ios.js',
-    'output'        : './build',
-    'bundle'        : true
+    'input'   : './rn28',
+    'entry'   : 'index.ios.js',
+    'output'  : './build',
+    'bundle'  : true
     };
 mp.pack(options, function(err) {
     // !err means build success.
