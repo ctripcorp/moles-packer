@@ -1,0 +1,42 @@
+{
+	"title": "MOLES_PACKER",
+	"metaExtname": ".meta.json",
+
+	"version-range": ">= 0.28.0-rc0 <= 0.37.0",
+
+	"path": {
+		"assets": "assets",
+		"assetModules": "asset_modules",
+		"entry": "index.js",
+
+		"common": "moles.common",
+
+		"commonBundle": {
+			"ios": "common.ios.jsbundle",
+			"android": "common.android.jsbundle"
+		},
+
+		"commonMeta": {
+			"ios": "common.ios.json",
+			"android": "common.android.json",
+			"cross": "common.json"
+		},
+
+		"bundle": {
+			"ios": "index.ios.jsbundle",
+			"android": "index.android.jsbundle",
+			"cross": "index.jsbundle"
+		}
+	},
+
+	"autoDetectEntry": true,
+
+	"symbol": {
+		"global": "var global = (function() { return this; })();",
+		"define": "global.amd.define",
+		"require": "global.amd.require",
+		"execRequire": "global.amd.re2",
+		"changeComponent": "global.molesChange",
+		"registerComponent": "global.molesRegister"
+	}
+}

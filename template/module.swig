@@ -1,0 +1,3 @@
+// DON'T REMOVE THIS LINE.
+{{ SYMBOL.global }}
+{{ MODULE_CODE }}
