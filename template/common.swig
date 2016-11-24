@@ -45,9 +45,11 @@
     };
 
     var registered = false;
+
     {{ SYMBOL.registerComponent }} = function(componentName) {
         if (registered) return;
         reactNative.AppRegistry.registerComponent(componentName || 'MOLES', function() { return Fake; });
         registered = true;
     };
+    {{ SYMBOL.registerComponent }}('MOLES');
 })(this);
