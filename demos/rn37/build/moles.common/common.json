@@ -1,0 +1,4542 @@
+[
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/react.js",
+            "react/react",
+            "react"
+        ],
+        "shortname": "react",
+        "ios": "12",
+        "android": "12",
+        "id": "f5yThj586pw2FvtRgyhspw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/React.js",
+            "react/lib/React",
+            "React"
+        ],
+        "shortname": "React",
+        "ios": "13",
+        "android": "13",
+        "id": "XYrEhNH2z9W+G4FYLP6rFg"
+    },
+    {
+        "version": "4.1.0",
+        "versionRange": null,
+        "names": [
+            "object-assign/index.js",
+            "object-assign/index",
+            "object-assign"
+        ],
+        "shortname": "object-assign",
+        "ios": "14",
+        "android": "14",
+        "id": "EuYz1djiOFQBBb/cUcDxfQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactChildren.js",
+            "react/lib/ReactChildren",
+            "ReactChildren"
+        ],
+        "shortname": "ReactChildren",
+        "ios": "15",
+        "android": "15",
+        "id": "WayfYwRWSW1iLwcUvNX1/g"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/PooledClass.js",
+            "react/lib/PooledClass",
+            "PooledClass"
+        ],
+        "shortname": "PooledClass",
+        "ios": "16",
+        "android": "16",
+        "id": "ueSfxDD37PCPupehSiT0dw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/reactProdInvariant.js",
+            "react/lib/reactProdInvariant",
+            "reactProdInvariant"
+        ],
+        "shortname": "reactProdInvariant",
+        "ios": "17",
+        "android": "17",
+        "id": "T5ISM21knBLculxTe+LhoA"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/invariant.js",
+            "fbjs/lib/invariant"
+        ],
+        "shortname": "fbjs/lib/invariant",
+        "ios": "18",
+        "android": "18",
+        "id": "wljKh8/UfZwaLJya5QTRDg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactElement.js",
+            "react/lib/ReactElement",
+            "ReactElement"
+        ],
+        "shortname": "ReactElement",
+        "ios": "19",
+        "android": "19",
+        "id": "oGImE4L561sNbbt08hU03Q"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactCurrentOwner.js",
+            "react/lib/ReactCurrentOwner",
+            "ReactCurrentOwner"
+        ],
+        "shortname": "ReactCurrentOwner",
+        "ios": "20",
+        "android": "20",
+        "id": "sxI6EWx7ap8gN4Wbz4US5w"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/warning.js",
+            "fbjs/lib/warning"
+        ],
+        "shortname": "fbjs/lib/warning",
+        "ios": "21",
+        "android": "21",
+        "id": "GzrrGe18DdPJc4zn4DjO5A"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/emptyFunction.js",
+            "fbjs/lib/emptyFunction"
+        ],
+        "shortname": "fbjs/lib/emptyFunction",
+        "ios": "22",
+        "android": "22",
+        "id": "7LNFdEOSkWUYs3ifOY6HuQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/canDefineProperty.js",
+            "react/lib/canDefineProperty",
+            "canDefineProperty"
+        ],
+        "shortname": "canDefineProperty",
+        "ios": "23",
+        "android": "23",
+        "id": "BwLn00FbO3bq5O/6K9Z1RQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/traverseAllChildren.js",
+            "react/lib/traverseAllChildren",
+            "traverseAllChildren"
+        ],
+        "shortname": "traverseAllChildren",
+        "ios": "24",
+        "android": "24",
+        "id": "mPxkyIQh6hqrp4uNi5Eufw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/getIteratorFn.js",
+            "react/lib/getIteratorFn",
+            "getIteratorFn"
+        ],
+        "shortname": "getIteratorFn",
+        "ios": "25",
+        "android": "25",
+        "id": "SFvcJM2n5BjONCrKYDOWRQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/KeyEscapeUtils.js",
+            "react/lib/KeyEscapeUtils",
+            "KeyEscapeUtils"
+        ],
+        "shortname": "KeyEscapeUtils",
+        "ios": "26",
+        "android": "26",
+        "id": "TZzLrEmJIBtVsLDbuhXZPg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactComponent.js",
+            "react/lib/ReactComponent",
+            "ReactComponent"
+        ],
+        "shortname": "ReactComponent",
+        "ios": "27",
+        "android": "27",
+        "id": "X8EYqR2/MI68d8CqG6dyOA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNoopUpdateQueue.js",
+            "react/lib/ReactNoopUpdateQueue",
+            "ReactNoopUpdateQueue"
+        ],
+        "shortname": "ReactNoopUpdateQueue",
+        "ios": "28",
+        "android": "28",
+        "id": "2HE38pXPM1On1i2mNEzF5Q"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/emptyObject.js",
+            "fbjs/lib/emptyObject"
+        ],
+        "shortname": "fbjs/lib/emptyObject",
+        "ios": "29",
+        "android": "29",
+        "id": "I57tNLKbbgeseG+dRgt07A"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactPureComponent.js",
+            "react/lib/ReactPureComponent",
+            "ReactPureComponent"
+        ],
+        "shortname": "ReactPureComponent",
+        "ios": "30",
+        "android": "30",
+        "id": "liosY+orOrY0vfHaqdj4xQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactClass.js",
+            "react/lib/ReactClass",
+            "ReactClass"
+        ],
+        "shortname": "ReactClass",
+        "ios": "31",
+        "android": "31",
+        "id": "61k4OP4atNgfx+MNRMhgOw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactPropTypeLocations.js",
+            "react/lib/ReactPropTypeLocations",
+            "ReactPropTypeLocations"
+        ],
+        "shortname": "ReactPropTypeLocations",
+        "ios": "32",
+        "android": "32",
+        "id": "5eV11TKuN/IBhqhqmUXjag"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/keyMirror.js",
+            "fbjs/lib/keyMirror"
+        ],
+        "shortname": "fbjs/lib/keyMirror",
+        "ios": "33",
+        "android": "33",
+        "id": "MPOw6gG0FVpIJZkjb5mmpg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactPropTypeLocationNames.js",
+            "react/lib/ReactPropTypeLocationNames",
+            "ReactPropTypeLocationNames"
+        ],
+        "shortname": "ReactPropTypeLocationNames",
+        "ios": "34",
+        "android": "34",
+        "id": "Dpk1rnz6eEYhXD7R2ojr4w"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/keyOf.js",
+            "fbjs/lib/keyOf"
+        ],
+        "shortname": "fbjs/lib/keyOf",
+        "ios": "35",
+        "android": "35",
+        "id": "Btg7cmL6lsIwPfWdaswmUA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactDOMFactories.js",
+            "react/lib/ReactDOMFactories",
+            "ReactDOMFactories"
+        ],
+        "shortname": "ReactDOMFactories",
+        "ios": "36",
+        "android": "36",
+        "id": "pdy48WFGErRLoGwwjGObYQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactPropTypes.js",
+            "react/lib/ReactPropTypes",
+            "ReactPropTypes"
+        ],
+        "shortname": "ReactPropTypes",
+        "ios": "37",
+        "android": "37",
+        "id": "r4N01DSkm/wBiwkZ4gxapQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactPropTypesSecret.js",
+            "react/lib/ReactPropTypesSecret",
+            "ReactPropTypesSecret"
+        ],
+        "shortname": "ReactPropTypesSecret",
+        "ios": "38",
+        "android": "38",
+        "id": "C5Gh4IMQDiEuH3IezBprFg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactVersion.js",
+            "react/lib/ReactVersion",
+            "ReactVersion"
+        ],
+        "shortname": "ReactVersion",
+        "ios": "39",
+        "android": "39",
+        "id": "P26qXf8xHiHwsbXTDYkbRg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/onlyChild.js",
+            "react/lib/onlyChild",
+            "onlyChild"
+        ],
+        "shortname": "onlyChild",
+        "ios": "40",
+        "android": "40",
+        "id": "2wLhrjUOXgN3X62EoMQVtA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/react-native/react-native.js",
+            "react-native/Libraries/react-native/react-native",
+            "react-native"
+        ],
+        "shortname": "react-native",
+        "ios": "41",
+        "android": "41",
+        "id": "bSxh+Y/5CLWVnPx5SyRVPg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js",
+            "react-native/Libraries/Components/ActivityIndicator/ActivityIndicator",
+            "ActivityIndicator"
+        ],
+        "shortname": "ActivityIndicator",
+        "ios": "42",
+        "android": "42",
+        "id": "BEokDgjRLtGDBoB4xEOCxA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/ColorPropType.js",
+            "react-native/Libraries/StyleSheet/ColorPropType",
+            "ColorPropType"
+        ],
+        "shortname": "ColorPropType",
+        "ios": "43",
+        "android": "43",
+        "id": "jFwQaG55SnLii/Z8h92IXA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/normalizeColor.js",
+            "react-native/Libraries/StyleSheet/normalizeColor",
+            "normalizeColor"
+        ],
+        "shortname": "normalizeColor",
+        "ios": "44",
+        "android": "44",
+        "id": "cYHTwwJtRQxhBRboocR9AQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/NativeMethodsMixin.js",
+            "react/lib/NativeMethodsMixin",
+            "NativeMethodsMixin"
+        ],
+        "shortname": "NativeMethodsMixin",
+        "ios": "45",
+        "android": "45",
+        "id": "oigKk5L2wGzPXgVNDgyapg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeAttributePayload.js",
+            "react/lib/ReactNativeAttributePayload",
+            "ReactNativeAttributePayload"
+        ],
+        "shortname": "ReactNativeAttributePayload",
+        "ios": "46",
+        "android": "46",
+        "id": "svAGj9tSSYCCtk+pDDMIaw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativePropRegistry.js",
+            "react/lib/ReactNativePropRegistry",
+            "ReactNativePropRegistry"
+        ],
+        "shortname": "ReactNativePropRegistry",
+        "ios": "47",
+        "android": "47",
+        "id": "dVwnIbLpo2RlBDny/EUjnA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/deepDiffer.js",
+            "react-native/lib/deepDiffer"
+        ],
+        "shortname": "react-native/lib/deepDiffer",
+        "ios": "48",
+        "android": "48",
+        "id": "TqjkBVbElCauHFVWRjkUBQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/differ/deepDiffer.js",
+            "react-native/Libraries/Utilities/differ/deepDiffer",
+            "deepDiffer"
+        ],
+        "shortname": "deepDiffer",
+        "ios": "49",
+        "android": "49",
+        "id": "5XKjV/PGL7ZcmHHFFHCFKg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/flattenStyle.js",
+            "react-native/lib/flattenStyle"
+        ],
+        "shortname": "react-native/lib/flattenStyle",
+        "ios": "50",
+        "android": "50",
+        "id": "nP+QrejJkO4YTpkVrY97lw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/flattenStyle.js",
+            "react-native/Libraries/StyleSheet/flattenStyle",
+            "flattenStyle"
+        ],
+        "shortname": "flattenStyle",
+        "ios": "51",
+        "android": "51",
+        "id": "jqlfrzlawSS951WzqX3Aag"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/TextInputState.js",
+            "react-native/lib/TextInputState"
+        ],
+        "shortname": "react-native/lib/TextInputState",
+        "ios": "52",
+        "android": "52",
+        "id": "YUjM2Rwi7/OgYcSI0BxZtA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/TextInput/TextInputState.js",
+            "react-native/Libraries/Components/TextInput/TextInputState",
+            "TextInputState"
+        ],
+        "shortname": "TextInputState",
+        "ios": "53",
+        "android": "53",
+        "id": "dbR0Ea1fwlBlaczmNS9jzw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/Platform.ios.js",
+            "react-native/Libraries/Utilities/Platform.ios",
+            "Platform"
+        ],
+        "shortname": "Platform",
+        "ios": "54",
+        "android": "54",
+        "id": "U0oj9NVChZUkiT1SVfB4fg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ReactNative/UIManager.js",
+            "react-native/Libraries/ReactNative/UIManager",
+            "UIManager"
+        ],
+        "shortname": "UIManager",
+        "ios": "55",
+        "android": "73",
+        "id": "MhhOo7qXC9KAKOWWkBmReQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/BatchedBridge/NativeModules.js",
+            "react-native/Libraries/BatchedBridge/NativeModules",
+            "NativeModules"
+        ],
+        "shortname": "NativeModules",
+        "ios": "56",
+        "android": "55",
+        "id": "UWrphoxwF4w5PE5X1qHbrg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/BatchedBridge/BatchedBridge.js",
+            "react-native/Libraries/BatchedBridge/BatchedBridge",
+            "BatchedBridge"
+        ],
+        "shortname": "BatchedBridge",
+        "ios": "57",
+        "android": "56",
+        "id": "hAdfOx2Hf/dPotK9pOGwVw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/BatchedBridge/MessageQueue.js",
+            "react-native/Libraries/BatchedBridge/MessageQueue",
+            "MessageQueue"
+        ],
+        "shortname": "MessageQueue",
+        "ios": "58",
+        "android": "57",
+        "id": "HqkTDaQhu+ZbqPFpuo5fNw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Core/ErrorUtils.js",
+            "react-native/Libraries/Core/ErrorUtils",
+            "ErrorUtils"
+        ],
+        "shortname": "ErrorUtils",
+        "ios": "59",
+        "android": "58",
+        "id": "CowCpn4IGKiZ4dHZwTBkww"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Core/Timers/JSTimersExecution.js",
+            "react-native/Libraries/Core/Timers/JSTimersExecution",
+            "JSTimersExecution"
+        ],
+        "shortname": "JSTimersExecution",
+        "ios": "60",
+        "android": "59",
+        "id": "7EatGh0l/VNd929xsrMxPg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Performance/Systrace.js",
+            "react-native/Libraries/Performance/Systrace",
+            "Systrace"
+        ],
+        "shortname": "Systrace",
+        "ios": "61",
+        "android": "60",
+        "id": "SQ1/smQlMcOv986WrHIz/Q"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/performanceNow.js",
+            "fbjs/lib/performanceNow"
+        ],
+        "shortname": "fbjs/lib/performanceNow",
+        "ios": "62",
+        "android": "61",
+        "id": "qJ9ZcniFqTnywl3QpIWPRw"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/performance.js",
+            "fbjs/lib/performance"
+        ],
+        "shortname": "fbjs/lib/performance",
+        "ios": "63",
+        "android": "62",
+        "id": "o2wlEGXpVstgiiAe2jL9Eg"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/ExecutionEnvironment.js",
+            "fbjs/lib/ExecutionEnvironment"
+        ],
+        "shortname": "fbjs/lib/ExecutionEnvironment",
+        "ios": "64",
+        "android": "63",
+        "id": "/k9yxhvt/BpvlBhqq8CXBQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Core/Timers/JSTimers.js",
+            "react-native/Libraries/Core/Timers/JSTimers",
+            "JSTimers"
+        ],
+        "shortname": "JSTimers",
+        "ios": "65",
+        "android": "64",
+        "id": "wSHm+7pzpCvM9CQfSlQe4A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Core/Devtools/parseErrorStack.js",
+            "react-native/Libraries/Core/Devtools/parseErrorStack",
+            "parseErrorStack"
+        ],
+        "shortname": "parseErrorStack",
+        "ios": "66",
+        "android": "65",
+        "id": "pALg5Cey5hKyRzu3ztVFuw"
+    },
+    {
+        "version": "0.1.4",
+        "versionRange": null,
+        "names": [
+            "stacktrace-parser/index.js",
+            "stacktrace-parser/index",
+            "stacktrace-parser"
+        ],
+        "shortname": "stacktrace-parser",
+        "ios": "67",
+        "android": "66",
+        "id": "aYtiBqWSit0jjufP8/giJQ"
+    },
+    {
+        "version": "0.1.4",
+        "versionRange": null,
+        "names": [
+            "stacktrace-parser/lib/stacktrace-parser.js",
+            "stacktrace-parser/lib/stacktrace-parser"
+        ],
+        "shortname": "stacktrace-parser/lib/stacktrace-parser",
+        "ios": "68",
+        "android": "67",
+        "id": "Niz2leehOg/1c0o03mt3WQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/deepFreezeAndThrowOnMutationInDev.js",
+            "react-native/Libraries/Utilities/deepFreezeAndThrowOnMutationInDev",
+            "deepFreezeAndThrowOnMutationInDev"
+        ],
+        "shortname": "deepFreezeAndThrowOnMutationInDev",
+        "ios": "69",
+        "android": "68",
+        "id": "Vsqk95ZPZjKMd1SJ+Vj7dg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/stringifySafe.js",
+            "react-native/Libraries/Utilities/stringifySafe",
+            "stringifySafe"
+        ],
+        "shortname": "stringifySafe",
+        "ios": "70",
+        "android": "69",
+        "id": "MmfqMET/9h2XdoPpDoRgxg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/HeapCapture.js",
+            "react-native/Libraries/Utilities/HeapCapture",
+            "HeapCapture"
+        ],
+        "shortname": "HeapCapture",
+        "ios": "71",
+        "android": "70",
+        "id": "jWfthSkUovoVv7aObxZokA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Performance/SamplingProfiler.js",
+            "react-native/Libraries/Performance/SamplingProfiler",
+            "SamplingProfiler"
+        ],
+        "shortname": "SamplingProfiler",
+        "ios": "72",
+        "android": "71",
+        "id": "PBPAC0tN6HKzB6AdNaMrHg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/defineLazyObjectProperty.js",
+            "react-native/Libraries/Utilities/defineLazyObjectProperty",
+            "defineLazyObjectProperty"
+        ],
+        "shortname": "defineLazyObjectProperty",
+        "ios": "73",
+        "android": "72",
+        "id": "SQ94BiExFvAceRkSxm1fXQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/findNodeHandle.js",
+            "react/lib/findNodeHandle",
+            "findNodeHandle"
+        ],
+        "shortname": "findNodeHandle",
+        "ios": "74",
+        "android": "74",
+        "id": "p53/Q6egfvuAkXBsQz96Ew"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactInstanceMap.js",
+            "react/lib/ReactInstanceMap",
+            "ReactInstanceMap"
+        ],
+        "shortname": "ReactInstanceMap",
+        "ios": "75",
+        "android": "75",
+        "id": "zoFW0oS97L6Rj210o8fARA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/UIManager.js",
+            "react-native/lib/UIManager"
+        ],
+        "shortname": "react-native/lib/UIManager",
+        "ios": "76",
+        "android": "76",
+        "id": "9YV0VP9zZmtDiw4dVB/www"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/react-native/React.js",
+            "react-native/Libraries/react-native/React",
+            "React"
+        ],
+        "shortname": "React",
+        "ios": "77",
+        "android": "13",
+        "id": "i9fHryaypB6tT6sRJZUwJw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/StyleSheet.js",
+            "react-native/Libraries/StyleSheet/StyleSheet",
+            "StyleSheet"
+        ],
+        "shortname": "StyleSheet",
+        "ios": "78",
+        "android": "78",
+        "id": "nsiT9ez2t11fn4H3aJQlvw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/PixelRatio.js",
+            "react-native/Libraries/Utilities/PixelRatio",
+            "PixelRatio"
+        ],
+        "shortname": "PixelRatio",
+        "ios": "79",
+        "android": "79",
+        "id": "Z+5EJrjPOIx0Ju/AimZJjA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/Dimensions.js",
+            "react-native/Libraries/Utilities/Dimensions",
+            "Dimensions"
+        ],
+        "shortname": "Dimensions",
+        "ios": "80",
+        "android": "80",
+        "id": "XG4JWjnsP0h+AWfgqh5m3Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/RCTDeviceEventEmitter.js",
+            "react-native/Libraries/EventEmitter/RCTDeviceEventEmitter",
+            "RCTDeviceEventEmitter"
+        ],
+        "shortname": "RCTDeviceEventEmitter",
+        "ios": "81",
+        "android": "81",
+        "id": "rEtJQfIHUFou2U8DaAdloA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/EventEmitter.js",
+            "react-native/Libraries/EventEmitter/EventEmitter",
+            "EventEmitter"
+        ],
+        "shortname": "EventEmitter",
+        "ios": "82",
+        "android": "82",
+        "id": "jf7eztYiI8cXgo5+1c/w8A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/EmitterSubscription.js",
+            "react-native/Libraries/EventEmitter/EmitterSubscription",
+            "EmitterSubscription"
+        ],
+        "shortname": "EmitterSubscription",
+        "ios": "83",
+        "android": "83",
+        "id": "bjrxDzIHzrRdKvGqlCqMqA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/EventSubscription.js",
+            "react-native/Libraries/EventEmitter/EventSubscription",
+            "EventSubscription"
+        ],
+        "shortname": "EventSubscription",
+        "ios": "84",
+        "android": "84",
+        "id": "r/A73D9rTJVyLon7/05cTA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/EventSubscriptionVendor.js",
+            "react-native/Libraries/EventEmitter/EventSubscriptionVendor",
+            "EventSubscriptionVendor"
+        ],
+        "shortname": "EventSubscriptionVendor",
+        "ios": "85",
+        "android": "85",
+        "id": "AHrXdFykZY2cVsWZFcD9CA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/StatusBar/StatusBarIOS.ios.js",
+            "react-native/Libraries/Components/StatusBar/StatusBarIOS.ios",
+            "StatusBarIOS"
+        ],
+        "shortname": "StatusBarIOS",
+        "ios": "86",
+        "android": "86",
+        "id": "o45omzfiwWIek6UGsAvt0A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/NativeEventEmitter.js",
+            "react-native/Libraries/EventEmitter/NativeEventEmitter",
+            "NativeEventEmitter"
+        ],
+        "shortname": "NativeEventEmitter",
+        "ios": "87",
+        "android": "87",
+        "id": "N6wnXGR7zePC6d/nN7iWHA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Keyboard/Keyboard.js",
+            "react-native/Libraries/Components/Keyboard/Keyboard",
+            "Keyboard"
+        ],
+        "shortname": "Keyboard",
+        "ios": "88",
+        "android": "88",
+        "id": "cwQsW4ydefI0yfEYhmLtlg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/dismissKeyboard.js",
+            "react-native/Libraries/Utilities/dismissKeyboard",
+            "dismissKeyboard"
+        ],
+        "shortname": "dismissKeyboard",
+        "ios": "89",
+        "android": "89",
+        "id": "ZbsrGz2q7NKJwwO4thBJ6g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/AppState/AppState.js",
+            "react-native/Libraries/AppState/AppState",
+            "AppState"
+        ],
+        "shortname": "AppState",
+        "ios": "90",
+        "android": "90",
+        "id": "MZh16nM87C2XFV61r2ihyg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/logError.js",
+            "react-native/Libraries/Utilities/logError",
+            "logError"
+        ],
+        "shortname": "logError",
+        "ios": "91",
+        "android": "91",
+        "id": "i1TtmqQZ1/4bp00DnbUeWg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/StyleSheetValidation.js",
+            "react-native/Libraries/StyleSheet/StyleSheetValidation",
+            "StyleSheetValidation"
+        ],
+        "shortname": "StyleSheetValidation",
+        "ios": "92",
+        "android": "92",
+        "id": "MBuekEEeCs41Xlta9uLtyQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/ImageStylePropTypes.js",
+            "react-native/Libraries/Image/ImageStylePropTypes",
+            "ImageStylePropTypes"
+        ],
+        "shortname": "ImageStylePropTypes",
+        "ios": "93",
+        "android": "93",
+        "id": "P5QULGspVhfIRCB2CJJt9Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/ImageResizeMode.js",
+            "react-native/Libraries/Image/ImageResizeMode",
+            "ImageResizeMode"
+        ],
+        "shortname": "ImageResizeMode",
+        "ios": "94",
+        "android": "94",
+        "id": "V3OtM9yI8M4SpeuHqVDmLw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/LayoutPropTypes.js",
+            "react-native/Libraries/StyleSheet/LayoutPropTypes",
+            "LayoutPropTypes"
+        ],
+        "shortname": "LayoutPropTypes",
+        "ios": "95",
+        "android": "95",
+        "id": "NGVQpZg2LK23Bv/WXHRZhw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/View/ShadowPropTypesIOS.js",
+            "react-native/Libraries/Components/View/ShadowPropTypesIOS",
+            "ShadowPropTypesIOS"
+        ],
+        "shortname": "ShadowPropTypesIOS",
+        "ios": "96",
+        "android": "96",
+        "id": "cJQPtJkIDBNEfTJaRGnLrg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/TransformPropTypes.js",
+            "react-native/Libraries/StyleSheet/TransformPropTypes",
+            "TransformPropTypes"
+        ],
+        "shortname": "TransformPropTypes",
+        "ios": "97",
+        "android": "97",
+        "id": "q3q5fiS6QRnf65BudMyiOA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/deprecatedPropType.js",
+            "react-native/Libraries/Utilities/deprecatedPropType",
+            "deprecatedPropType"
+        ],
+        "shortname": "deprecatedPropType",
+        "ios": "98",
+        "android": "98",
+        "id": "tmLproCH4iT4iuJ8ZxBDUA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Text/TextStylePropTypes.js",
+            "react-native/Libraries/Text/TextStylePropTypes",
+            "TextStylePropTypes"
+        ],
+        "shortname": "TextStylePropTypes",
+        "ios": "99",
+        "android": "99",
+        "id": "JFaRFZwDtHQ8z2Aw3xI29g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/View/ViewStylePropTypes.js",
+            "react-native/Libraries/Components/View/ViewStylePropTypes",
+            "ViewStylePropTypes"
+        ],
+        "shortname": "ViewStylePropTypes",
+        "ios": "100",
+        "android": "100",
+        "id": "JQ0ySjiyRUb1NoXaLrgMTg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/View/View.js",
+            "react-native/Libraries/Components/View/View",
+            "View"
+        ],
+        "shortname": "View",
+        "ios": "101",
+        "android": "101",
+        "id": "+WrY5tUXMrwou1k+tIUBUA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/EdgeInsetsPropType.js",
+            "react-native/Libraries/StyleSheet/EdgeInsetsPropType",
+            "EdgeInsetsPropType"
+        ],
+        "shortname": "EdgeInsetsPropType",
+        "ios": "102",
+        "android": "102",
+        "id": "Tgf5BrfCJQs88GTHnAKcHQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/createStrictShapeTypeChecker.js",
+            "react-native/Libraries/Utilities/createStrictShapeTypeChecker",
+            "createStrictShapeTypeChecker"
+        ],
+        "shortname": "createStrictShapeTypeChecker",
+        "ios": "103",
+        "android": "103",
+        "id": "b96C5SmnNi58Mk4Cm0+taw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/merge.js",
+            "react-native/Libraries/vendor/core/merge",
+            "merge"
+        ],
+        "shortname": "merge",
+        "ios": "104",
+        "android": "104",
+        "id": "pOvjwmzvW92cwOH44NccHw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/mergeInto.js",
+            "react-native/Libraries/vendor/core/mergeInto",
+            "mergeInto"
+        ],
+        "shortname": "mergeInto",
+        "ios": "105",
+        "android": "105",
+        "id": "2SsjCiqtC+7xtegRT22/Xg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/mergeHelpers.js",
+            "react-native/Libraries/vendor/core/mergeHelpers",
+            "mergeHelpers"
+        ],
+        "shortname": "mergeHelpers",
+        "ios": "106",
+        "android": "106",
+        "id": "YpM5NyuPxT+ueUVQX26+9g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/View/ReactNativeStyleAttributes.js",
+            "react-native/Libraries/Components/View/ReactNativeStyleAttributes",
+            "ReactNativeStyleAttributes"
+        ],
+        "shortname": "ReactNativeStyleAttributes",
+        "ios": "107",
+        "android": "107",
+        "id": "pmMwL0lfBgmANu3qDG3aSA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/differ/matricesDiffer.js",
+            "react-native/Libraries/Utilities/differ/matricesDiffer",
+            "matricesDiffer"
+        ],
+        "shortname": "matricesDiffer",
+        "ios": "108",
+        "android": "108",
+        "id": "oO6P1Rvu2zsQIqo5Uy0d5w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/processColor.js",
+            "react-native/Libraries/StyleSheet/processColor",
+            "processColor"
+        ],
+        "shortname": "processColor",
+        "ios": "109",
+        "android": "109",
+        "id": "I8Asth6fSi61z1xUKvrYBQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/processTransform.js",
+            "react-native/Libraries/StyleSheet/processTransform",
+            "processTransform"
+        ],
+        "shortname": "processTransform",
+        "ios": "110",
+        "android": "110",
+        "id": "aSApJ/UZoKbWprwcmSqBkQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/MatrixMath.js",
+            "react-native/Libraries/Utilities/MatrixMath",
+            "MatrixMath"
+        ],
+        "shortname": "MatrixMath",
+        "ios": "111",
+        "android": "111",
+        "id": "FvIqrirZyQ/wWWk/jrg0MA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/differ/sizesDiffer.js",
+            "react-native/Libraries/Utilities/differ/sizesDiffer",
+            "sizesDiffer"
+        ],
+        "shortname": "sizesDiffer",
+        "ios": "112",
+        "android": "112",
+        "id": "CTF0Q1V9TwcXQICOjXvyWw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/View/ReactNativeViewAttributes.js",
+            "react-native/Libraries/Components/View/ReactNativeViewAttributes",
+            "ReactNativeViewAttributes"
+        ],
+        "shortname": "ReactNativeViewAttributes",
+        "ios": "113",
+        "android": "113",
+        "id": "s9SucyvS2ymNT8KoAX2/gw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/StyleSheetPropType.js",
+            "react-native/Libraries/StyleSheet/StyleSheetPropType",
+            "StyleSheetPropType"
+        ],
+        "shortname": "StyleSheetPropType",
+        "ios": "114",
+        "android": "114",
+        "id": "l0STVbRNCRaNR3dSbalL8Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ReactNative/requireNativeComponent.js",
+            "react-native/Libraries/ReactNative/requireNativeComponent",
+            "requireNativeComponent"
+        ],
+        "shortname": "requireNativeComponent",
+        "ios": "115",
+        "android": "115",
+        "id": "gceHSgUYNpO70j+M2XMwsw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js",
+            "react-native/Libraries/Components/UnimplementedViews/UnimplementedView",
+            "UnimplementedView"
+        ],
+        "shortname": "UnimplementedView",
+        "ios": "116",
+        "android": "116",
+        "id": "k3zzEuTcucZFZvjW6Zzl5g"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/createReactNativeComponentClass.js",
+            "react/lib/createReactNativeComponentClass",
+            "createReactNativeComponentClass"
+        ],
+        "shortname": "createReactNativeComponentClass",
+        "ios": "117",
+        "android": "117",
+        "id": "vLhmkQGtCHifhJeg+GHuaQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeBaseComponent.js",
+            "react/lib/ReactNativeBaseComponent",
+            "ReactNativeBaseComponent"
+        ],
+        "shortname": "ReactNativeBaseComponent",
+        "ios": "118",
+        "android": "118",
+        "id": "Ttj0pjV8FNf12J3vjUwEpA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeComponentTree.js",
+            "react/lib/ReactNativeComponentTree",
+            "ReactNativeComponentTree"
+        ],
+        "shortname": "ReactNativeComponentTree",
+        "ios": "119",
+        "android": "119",
+        "id": "w7MwNOr0acvL7VfS+ZmBCw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeEventEmitter.js",
+            "react/lib/ReactNativeEventEmitter",
+            "ReactNativeEventEmitter"
+        ],
+        "shortname": "ReactNativeEventEmitter",
+        "ios": "120",
+        "android": "120",
+        "id": "eQSB6UmJnVTxaaWa0x/6gA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/EventConstants.js",
+            "react/lib/EventConstants",
+            "EventConstants"
+        ],
+        "shortname": "EventConstants",
+        "ios": "121",
+        "android": "121",
+        "id": "V9YdbEf85yVrOR1+15+yDA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/EventPluginHub.js",
+            "react/lib/EventPluginHub",
+            "EventPluginHub"
+        ],
+        "shortname": "EventPluginHub",
+        "ios": "122",
+        "android": "122",
+        "id": "B49Z5s8YBDtB3afqdBMSHQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/EventPluginRegistry.js",
+            "react/lib/EventPluginRegistry",
+            "EventPluginRegistry"
+        ],
+        "shortname": "EventPluginRegistry",
+        "ios": "123",
+        "android": "123",
+        "id": "6RAGZgW5HnvbKzDs5qYHDw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/EventPluginUtils.js",
+            "react/lib/EventPluginUtils",
+            "EventPluginUtils"
+        ],
+        "shortname": "EventPluginUtils",
+        "ios": "124",
+        "android": "124",
+        "id": "pc0tmrcXQKYSL8zwzBUhFw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactErrorUtils.js",
+            "react/lib/ReactErrorUtils",
+            "ReactErrorUtils"
+        ],
+        "shortname": "ReactErrorUtils",
+        "ios": "125",
+        "android": "125",
+        "id": "9bYIcuVMF9qhFGth6VIQow"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/accumulateInto.js",
+            "react/lib/accumulateInto",
+            "accumulateInto"
+        ],
+        "shortname": "accumulateInto",
+        "ios": "126",
+        "android": "126",
+        "id": "eDgMjPckx6v1MQjweWqQ8w"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/forEachAccumulated.js",
+            "react/lib/forEachAccumulated",
+            "forEachAccumulated"
+        ],
+        "shortname": "forEachAccumulated",
+        "ios": "127",
+        "android": "127",
+        "id": "TTEsQ0R/Z6qmC6JKS6yE/Q"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactEventEmitterMixin.js",
+            "react/lib/ReactEventEmitterMixin",
+            "ReactEventEmitterMixin"
+        ],
+        "shortname": "ReactEventEmitterMixin",
+        "ios": "128",
+        "android": "128",
+        "id": "TWuZB1ZV02ddkcENIEZrSQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeTagHandles.js",
+            "react/lib/ReactNativeTagHandles",
+            "ReactNativeTagHandles"
+        ],
+        "shortname": "ReactNativeTagHandles",
+        "ios": "129",
+        "android": "129",
+        "id": "IE1inIKAWQTFDN4NGeFj0A"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactUpdates.js",
+            "react/lib/ReactUpdates",
+            "ReactUpdates"
+        ],
+        "shortname": "ReactUpdates",
+        "ios": "130",
+        "android": "130",
+        "id": "p9bfH+44Q0zloTR+g8KuLA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/CallbackQueue.js",
+            "react/lib/CallbackQueue",
+            "CallbackQueue"
+        ],
+        "shortname": "CallbackQueue",
+        "ios": "131",
+        "android": "131",
+        "id": "+7BeVlOceHdwZhzW4AkGDg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactFeatureFlags.js",
+            "react/lib/ReactFeatureFlags",
+            "ReactFeatureFlags"
+        ],
+        "shortname": "ReactFeatureFlags",
+        "ios": "132",
+        "android": "132",
+        "id": "/3uY3KnRA6LhU+mKwVeXxg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactReconciler.js",
+            "react/lib/ReactReconciler",
+            "ReactReconciler"
+        ],
+        "shortname": "ReactReconciler",
+        "ios": "133",
+        "android": "133",
+        "id": "bcUjoMCYG6iCZoXw1fjFDw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactRef.js",
+            "react/lib/ReactRef",
+            "ReactRef"
+        ],
+        "shortname": "ReactRef",
+        "ios": "134",
+        "android": "134",
+        "id": "oL6+5Ysi65xVwBB2DjBIyQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactOwner.js",
+            "react/lib/ReactOwner",
+            "ReactOwner"
+        ],
+        "shortname": "ReactOwner",
+        "ios": "135",
+        "android": "135",
+        "id": "+EfosqFctdpBmrr4NHEeYw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactInstrumentation.js",
+            "react/lib/ReactInstrumentation",
+            "ReactInstrumentation"
+        ],
+        "shortname": "ReactInstrumentation",
+        "ios": "136",
+        "android": "136",
+        "id": "wqia2kHnpJwXFvGHTCEtDw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/Transaction.js",
+            "react/lib/Transaction",
+            "Transaction"
+        ],
+        "shortname": "Transaction",
+        "ios": "137",
+        "android": "137",
+        "id": "g9TXAc8T1pAqhXR+3Wa/rw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactMultiChild.js",
+            "react/lib/ReactMultiChild",
+            "ReactMultiChild"
+        ],
+        "shortname": "ReactMultiChild",
+        "ios": "138",
+        "android": "138",
+        "id": "y/L56khiBsaA46rw0notZw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactComponentEnvironment.js",
+            "react/lib/ReactComponentEnvironment",
+            "ReactComponentEnvironment"
+        ],
+        "shortname": "ReactComponentEnvironment",
+        "ios": "139",
+        "android": "139",
+        "id": "ZqCPd/iW/w2//xKAic5xQg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactMultiChildUpdateTypes.js",
+            "react/lib/ReactMultiChildUpdateTypes",
+            "ReactMultiChildUpdateTypes"
+        ],
+        "shortname": "ReactMultiChildUpdateTypes",
+        "ios": "140",
+        "android": "140",
+        "id": "X9Rden1vZ19tsKZblJulEg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactChildReconciler.js",
+            "react/lib/ReactChildReconciler",
+            "ReactChildReconciler"
+        ],
+        "shortname": "ReactChildReconciler",
+        "ios": "141",
+        "android": "141",
+        "id": "Ql1BEYEtV3cn+hntggN0nw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/instantiateReactComponent.js",
+            "react/lib/instantiateReactComponent",
+            "instantiateReactComponent"
+        ],
+        "shortname": "instantiateReactComponent",
+        "ios": "142",
+        "android": "142",
+        "id": "40ueXBHSlRDsG7gqi+dMlg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactCompositeComponent.js",
+            "react/lib/ReactCompositeComponent",
+            "ReactCompositeComponent"
+        ],
+        "shortname": "ReactCompositeComponent",
+        "ios": "143",
+        "android": "143",
+        "id": "HXojmpDW6cycx3tgyTsqHw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNodeTypes.js",
+            "react/lib/ReactNodeTypes",
+            "ReactNodeTypes"
+        ],
+        "shortname": "ReactNodeTypes",
+        "ios": "144",
+        "android": "144",
+        "id": "oT2XE5iohIoqS/slSQ3j8g"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/checkReactTypeSpec.js",
+            "react/lib/checkReactTypeSpec",
+            "checkReactTypeSpec"
+        ],
+        "shortname": "checkReactTypeSpec",
+        "ios": "145",
+        "android": "145",
+        "id": "E+WIEtKdf1mVAIAu7GnGqA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactComponentTreeHook.js",
+            "react/lib/ReactComponentTreeHook",
+            "ReactComponentTreeHook"
+        ],
+        "shortname": "ReactComponentTreeHook",
+        "ios": "146",
+        "android": "146",
+        "id": "g1lxwuny6SNAxLpv3BkP2g"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/shallowEqual.js",
+            "fbjs/lib/shallowEqual"
+        ],
+        "shortname": "fbjs/lib/shallowEqual",
+        "ios": "147",
+        "android": "147",
+        "id": "QdopmsIaEPBDxJxDy7IDWA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/shouldUpdateReactComponent.js",
+            "react/lib/shouldUpdateReactComponent",
+            "shouldUpdateReactComponent"
+        ],
+        "shortname": "shouldUpdateReactComponent",
+        "ios": "148",
+        "android": "148",
+        "id": "mid5a4vnszUH3wzECxmZqg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactEmptyComponent.js",
+            "react/lib/ReactEmptyComponent",
+            "ReactEmptyComponent"
+        ],
+        "shortname": "ReactEmptyComponent",
+        "ios": "149",
+        "android": "149",
+        "id": "0gJsaPO9GJkmZYB+dIF8lw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactHostComponent.js",
+            "react/lib/ReactHostComponent",
+            "ReactHostComponent"
+        ],
+        "shortname": "ReactHostComponent",
+        "ios": "150",
+        "android": "150",
+        "id": "low/CL0X1kbFQee1T4THyg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/flattenChildren.js",
+            "react/lib/flattenChildren",
+            "flattenChildren"
+        ],
+        "shortname": "flattenChildren",
+        "ios": "151",
+        "android": "151",
+        "id": "+PTgiv6rkOtLzfjgI3SXwg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/deepFreezeAndThrowOnMutationInDev.js",
+            "react-native/lib/deepFreezeAndThrowOnMutationInDev"
+        ],
+        "shortname": "react-native/lib/deepFreezeAndThrowOnMutationInDev",
+        "ios": "152",
+        "android": "152",
+        "id": "p7qIfVh0o+35Q5uLiyvT0w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/differ/insetsDiffer.js",
+            "react-native/Libraries/Utilities/differ/insetsDiffer",
+            "insetsDiffer"
+        ],
+        "shortname": "insetsDiffer",
+        "ios": "153",
+        "android": "153",
+        "id": "tAFeKIAODbFCK1swNVFkUA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/differ/pointsDiffer.js",
+            "react-native/Libraries/Utilities/differ/pointsDiffer",
+            "pointsDiffer"
+        ],
+        "shortname": "pointsDiffer",
+        "ios": "154",
+        "android": "154",
+        "id": "fJBNu46qQQBLa44iLYb4Iw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/resolveAssetSource.js",
+            "react-native/Libraries/Image/resolveAssetSource",
+            "resolveAssetSource"
+        ],
+        "shortname": "resolveAssetSource",
+        "ios": "155",
+        "android": "155",
+        "id": "UCwQFH9Wa4Bfmsmpwe2WDg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/AssetRegistry.js",
+            "react-native/Libraries/Image/AssetRegistry",
+            "AssetRegistry"
+        ],
+        "shortname": "AssetRegistry",
+        "ios": "156",
+        "android": "156",
+        "id": "7MCdW4RZCG8dPNMdWXzoTw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/AssetSourceResolver.js",
+            "react-native/Libraries/Image/AssetSourceResolver",
+            "AssetSourceResolver"
+        ],
+        "shortname": "AssetSourceResolver",
+        "ios": "157",
+        "android": "157",
+        "id": "hdtqIi/vntKd1htdUS0SVw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/local-cli/bundle/assetPathUtils.js",
+            "react-native/local-cli/bundle/assetPathUtils"
+        ],
+        "shortname": "react-native/local-cli/bundle/assetPathUtils",
+        "ios": "158",
+        "android": "158",
+        "id": "Qh1yVDSL/tf8PO53qhc0sw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ReactNative/verifyPropTypes.js",
+            "react-native/Libraries/ReactNative/verifyPropTypes",
+            "verifyPropTypes"
+        ],
+        "shortname": "verifyPropTypes",
+        "ios": "159",
+        "android": "159",
+        "id": "m6BOpspP8cQUQruHpy0PaQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ART/ReactNativeART.js",
+            "react-native/Libraries/ART/ReactNativeART",
+            "ReactNativeART"
+        ],
+        "shortname": "ReactNativeART",
+        "ios": "160",
+        "android": "160",
+        "id": "VcGGzw9vo1/x9SmV7OhsDg"
+    },
+    {
+        "version": "0.10.1",
+        "versionRange": null,
+        "names": [
+            "art/core/color.js",
+            "art/core/color"
+        ],
+        "shortname": "art/core/color",
+        "ios": "161",
+        "android": "161",
+        "id": "JRTbvY3MkrlCd31TzijIyQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ART/ARTSerializablePath.js",
+            "react-native/Libraries/ART/ARTSerializablePath",
+            "ARTSerializablePath"
+        ],
+        "shortname": "ARTSerializablePath",
+        "ios": "162",
+        "android": "162",
+        "id": "g0r+2xWLnC/sNvEqvWT0fQ"
+    },
+    {
+        "version": "0.10.1",
+        "versionRange": null,
+        "names": [
+            "art/core/class.js",
+            "art/core/class"
+        ],
+        "shortname": "art/core/class",
+        "ios": "163",
+        "android": "163",
+        "id": "afGBgWUKS2PSgxXBDtDCwQ"
+    },
+    {
+        "version": "0.10.1",
+        "versionRange": null,
+        "names": [
+            "art/core/path.js",
+            "art/core/path"
+        ],
+        "shortname": "art/core/path",
+        "ios": "164",
+        "android": "164",
+        "id": "1dJpWqbUR5U5JTty+WRaUw"
+    },
+    {
+        "version": "0.10.1",
+        "versionRange": null,
+        "names": [
+            "art/core/transform.js",
+            "art/core/transform"
+        ],
+        "shortname": "art/core/transform",
+        "ios": "165",
+        "android": "165",
+        "id": "WRWOAb0wglU4cvlGmB5nKw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Button.js",
+            "react-native/Libraries/Components/Button",
+            "Button"
+        ],
+        "shortname": "Button",
+        "ios": "166",
+        "android": "166",
+        "id": "G1bcK/23aaOsRM5KuKTUmQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Text/Text.js",
+            "react-native/Libraries/Text/Text",
+            "Text"
+        ],
+        "shortname": "Text",
+        "ios": "167",
+        "android": "167",
+        "id": "DcX2VImxpzWBpYtIps0u8w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/Touchable.js",
+            "react-native/Libraries/Components/Touchable/Touchable",
+            "Touchable"
+        ],
+        "shortname": "Touchable",
+        "ios": "168",
+        "android": "168",
+        "id": "4HoFb/OimoRqe+38aQkgqg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/BoundingDimensions.js",
+            "react-native/Libraries/Components/Touchable/BoundingDimensions",
+            "BoundingDimensions"
+        ],
+        "shortname": "BoundingDimensions",
+        "ios": "169",
+        "android": "169",
+        "id": "3xp6tR1lxgiAHNHHnRWxVQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/Position.js",
+            "react-native/Libraries/Components/Touchable/Position",
+            "Position"
+        ],
+        "shortname": "Position",
+        "ios": "170",
+        "android": "170",
+        "id": "tIGxYhWcMaYnGvwXKfdDnQ"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/TouchEventUtils.js",
+            "fbjs/lib/TouchEventUtils"
+        ],
+        "shortname": "fbjs/lib/TouchEventUtils",
+        "ios": "171",
+        "android": "171",
+        "id": "XS4SwnR9J3JP0ymIdkf2DQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/mergeFast.js",
+            "react-native/Libraries/Utilities/mergeFast",
+            "mergeFast"
+        ],
+        "shortname": "mergeFast",
+        "ios": "172",
+        "android": "172",
+        "id": "GrZII7siNc5h/9p3JmrduQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js",
+            "react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios",
+            "TouchableNativeFeedback"
+        ],
+        "shortname": "TouchableNativeFeedback",
+        "ios": "173",
+        "android": "173",
+        "id": "3FTF/iznsfmSu9J/kK+DGA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/TouchableOpacity.js",
+            "react-native/Libraries/Components/Touchable/TouchableOpacity",
+            "TouchableOpacity"
+        ],
+        "shortname": "TouchableOpacity",
+        "ios": "174",
+        "android": "235",
+        "id": "6+hF7CSb8RbMRAP62S9ZwA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Animated/src/Animated.js",
+            "react-native/Libraries/Animated/src/Animated",
+            "Animated"
+        ],
+        "shortname": "Animated",
+        "ios": "175",
+        "android": "236",
+        "id": "Fq7JKyXyWnBnYWZkIcl0/w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Animated/src/AnimatedImplementation.js",
+            "react-native/Libraries/Animated/src/AnimatedImplementation",
+            "AnimatedImplementation"
+        ],
+        "shortname": "AnimatedImplementation",
+        "ios": "176",
+        "android": "237",
+        "id": "ZLQ6X+9UZkADZaqkz3B6dw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Interaction/InteractionManager.js",
+            "react-native/Libraries/Interaction/InteractionManager",
+            "InteractionManager"
+        ],
+        "shortname": "InteractionManager",
+        "ios": "177",
+        "android": "238",
+        "id": "qDtsU61SwQbKnczg7m1/ZA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/Set.js",
+            "react-native/Libraries/vendor/core/Set",
+            "Set"
+        ],
+        "shortname": "Set",
+        "ios": "178",
+        "android": "207",
+        "id": "xyYN1BhNy9mE0RpPs/VO9g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/Map.js",
+            "react-native/Libraries/vendor/core/Map",
+            "Map"
+        ],
+        "shortname": "Map",
+        "ios": "179",
+        "android": "202",
+        "id": "rdfomZERsym/XpY9ZW1eWQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/guid.js",
+            "react-native/Libraries/vendor/core/guid",
+            "guid"
+        ],
+        "shortname": "guid",
+        "ios": "180",
+        "android": "203",
+        "id": "1cr05qkNjBZQLK9gkKWKAQ"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/isNode.js",
+            "fbjs/lib/isNode"
+        ],
+        "shortname": "fbjs/lib/isNode",
+        "ios": "181",
+        "android": "204",
+        "id": "UT4WZdB45qpV0a8wNjF8Ng"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/toIterator.js",
+            "react-native/Libraries/vendor/core/toIterator",
+            "toIterator"
+        ],
+        "shortname": "toIterator",
+        "ios": "182",
+        "android": "205",
+        "id": "mt0ppQZrrmqaf9Fy9ZOc2A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/_shouldPolyfillES6Collection.js",
+            "react-native/Libraries/vendor/core/_shouldPolyfillES6Collection",
+            "_shouldPolyfillES6Collection"
+        ],
+        "shortname": "_shouldPolyfillES6Collection",
+        "ios": "183",
+        "android": "206",
+        "id": "rb1Iw3M4VEJHhapWrM2AoQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Interaction/TaskQueue.js",
+            "react-native/Libraries/Interaction/TaskQueue",
+            "TaskQueue"
+        ],
+        "shortname": "TaskQueue",
+        "ios": "184",
+        "android": "239",
+        "id": "54XHyCYTDguCEROd4aOPSg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/infoLog.js",
+            "react-native/Libraries/Utilities/infoLog",
+            "infoLog"
+        ],
+        "shortname": "infoLog",
+        "ios": "185",
+        "android": "240",
+        "id": "RzgU3TjVTdJEJNS4aNh93A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Animated/src/Interpolation.js",
+            "react-native/Libraries/Animated/src/Interpolation",
+            "Interpolation"
+        ],
+        "shortname": "Interpolation",
+        "ios": "186",
+        "android": "241",
+        "id": "PSIUKDwL3+ajw3+h0dMsMg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Animated/src/SpringConfig.js",
+            "react-native/Libraries/Animated/src/SpringConfig",
+            "SpringConfig"
+        ],
+        "shortname": "SpringConfig",
+        "ios": "187",
+        "android": "242",
+        "id": "34929Dc1/QVxmzzbcKHzTg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Animated/src/NativeAnimatedHelper.js",
+            "react-native/Libraries/Animated/src/NativeAnimatedHelper",
+            "NativeAnimatedHelper"
+        ],
+        "shortname": "NativeAnimatedHelper",
+        "ios": "188",
+        "android": "243",
+        "id": "GgAcPF4T5GD7GBg4xFVtNw"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/requestAnimationFrame.js",
+            "fbjs/lib/requestAnimationFrame"
+        ],
+        "shortname": "fbjs/lib/requestAnimationFrame",
+        "ios": "189",
+        "android": "244",
+        "id": "auNuNn1IH6LqJSra22Liyg"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/nativeRequestAnimationFrame.js",
+            "fbjs/lib/nativeRequestAnimationFrame"
+        ],
+        "shortname": "fbjs/lib/nativeRequestAnimationFrame",
+        "ios": "190",
+        "android": "245",
+        "id": "DCEvRxxqfZEBRtrslELG7g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Animated/src/Easing.js",
+            "react-native/Libraries/Animated/src/Easing",
+            "Easing"
+        ],
+        "shortname": "Easing",
+        "ios": "191",
+        "android": "246",
+        "id": "P8B1l5z2GuQuLsBJ7buwiQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Animated/src/bezier.js",
+            "react-native/Libraries/Animated/src/bezier",
+            "bezier"
+        ],
+        "shortname": "bezier",
+        "ios": "192",
+        "android": "247",
+        "id": "6+uchhNax+i5wOiRo+pkMw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/Image.ios.js",
+            "react-native/Libraries/Image/Image.ios",
+            "Image"
+        ],
+        "shortname": "Image",
+        "ios": "193",
+        "android": "248",
+        "id": "SBNZAHI1nYjidxJBAcTZDA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ScrollView/ScrollView.js",
+            "react-native/Libraries/Components/ScrollView/ScrollView",
+            "ScrollView"
+        ],
+        "shortname": "ScrollView",
+        "ios": "195",
+        "android": "250",
+        "id": "kn58Izen6zj0zIfGoCbSxw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/StyleSheet/PointPropType.js",
+            "react-native/Libraries/StyleSheet/PointPropType",
+            "PointPropType"
+        ],
+        "shortname": "PointPropType",
+        "ios": "196",
+        "android": "251",
+        "id": "jHcp4LTbIDC2JUH8MHtmqQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/react-native/ReactNative.js",
+            "react-native/Libraries/react-native/ReactNative",
+            "ReactNative"
+        ],
+        "shortname": "ReactNative",
+        "ios": "197",
+        "android": "174",
+        "id": "+pHbn84nCW3iesTUeSVoVA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNative.js",
+            "react/lib/ReactNative",
+            "ReactNative"
+        ],
+        "shortname": "ReactNative",
+        "ios": "198",
+        "android": "174",
+        "id": "iEheSLEXhuhzCq3gaPxM+Q"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeDefaultInjection.js",
+            "react/lib/ReactNativeDefaultInjection",
+            "ReactNativeDefaultInjection"
+        ],
+        "shortname": "ReactNativeDefaultInjection",
+        "ios": "199",
+        "android": "176",
+        "id": "EG+tqctckEyfCxBq5FUg3Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/InitializeJavaScriptAppEngine.js",
+            "react-native/lib/InitializeJavaScriptAppEngine"
+        ],
+        "shortname": "react-native/lib/InitializeJavaScriptAppEngine",
+        "ios": "200",
+        "android": "177",
+        "id": "NvoVbwNuHmCUdlneoI/jQQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Core/InitializeCore.js",
+            "react-native/Libraries/Core/InitializeCore",
+            "InitializeCore"
+        ],
+        "shortname": "InitializeCore",
+        "ios": "201",
+        "android": "178",
+        "id": "tdemZLNRYOtbGBEfgxgoTA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Core/ExceptionsManager.js",
+            "react-native/Libraries/Core/ExceptionsManager",
+            "ExceptionsManager"
+        ],
+        "shortname": "ExceptionsManager",
+        "ios": "202",
+        "android": "179",
+        "id": "Jn0F17gzgVxebVoV6vHW4g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/RCTLog.js",
+            "react-native/Libraries/Utilities/RCTLog",
+            "RCTLog"
+        ],
+        "shortname": "RCTLog",
+        "ios": "203",
+        "android": "180",
+        "id": "lyT2XRqG1omS8rKpzU923w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Alert/Alert.js",
+            "react-native/Libraries/Alert/Alert",
+            "Alert"
+        ],
+        "shortname": "Alert",
+        "ios": "204",
+        "android": "181",
+        "id": "hzkRukmgweHn9fu/MO8CRg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Alert/AlertIOS.js",
+            "react-native/Libraries/Alert/AlertIOS",
+            "AlertIOS"
+        ],
+        "shortname": "AlertIOS",
+        "ios": "205",
+        "android": "182",
+        "id": "35kGQO9DguCe6JVQMxVAYg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Promise.js",
+            "react-native/Libraries/Promise",
+            "Promise"
+        ],
+        "shortname": "Promise",
+        "ios": "206",
+        "android": "183",
+        "id": "q4NSvlGtThKvzTebzcNO3Q"
+    },
+    {
+        "version": "0.8.6",
+        "versionRange": null,
+        "names": [
+            "fbjs/lib/Promise.native.js",
+            "fbjs/lib/Promise.native"
+        ],
+        "shortname": "fbjs/lib/Promise.native",
+        "ios": "207",
+        "android": "184",
+        "id": "TwquTx60bwE06WxMUrk6/g"
+    },
+    {
+        "version": "7.1.1",
+        "versionRange": null,
+        "names": [
+            "promise/setimmediate/es6-extensions.js",
+            "promise/setimmediate/es6-extensions"
+        ],
+        "shortname": "promise/setimmediate/es6-extensions",
+        "ios": "208",
+        "android": "185",
+        "id": "rWtvG3daTRbzUwHShJrj/w"
+    },
+    {
+        "version": "7.1.1",
+        "versionRange": null,
+        "names": [
+            "promise/setimmediate/core.js",
+            "promise/setimmediate/core"
+        ],
+        "shortname": "promise/setimmediate/core",
+        "ios": "209",
+        "android": "186",
+        "id": "ZAiYp1FEZj1OnXSDoAjzuA"
+    },
+    {
+        "version": "7.1.1",
+        "versionRange": null,
+        "names": [
+            "promise/setimmediate/done.js",
+            "promise/setimmediate/done"
+        ],
+        "shortname": "promise/setimmediate/done",
+        "ios": "210",
+        "android": "187",
+        "id": "V9rVQMU4uuAN73e2YhhV9w"
+    },
+    {
+        "version": "0.9.6",
+        "versionRange": null,
+        "names": [
+            "regenerator-runtime/runtime.js",
+            "regenerator-runtime/runtime"
+        ],
+        "shortname": "regenerator-runtime/runtime",
+        "ios": "211",
+        "android": "188",
+        "id": "2vyKuE+s3Phi5kyZ44s1+Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Network/XMLHttpRequest.js",
+            "react-native/Libraries/Network/XMLHttpRequest",
+            "XMLHttpRequest"
+        ],
+        "shortname": "XMLHttpRequest",
+        "ios": "212",
+        "android": "189",
+        "id": "3fg+qQ55tRbUWwLa5zjzcQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Network/RCTNetworking.ios.js",
+            "react-native/Libraries/Network/RCTNetworking.ios",
+            "RCTNetworking"
+        ],
+        "shortname": "RCTNetworking",
+        "ios": "213",
+        "android": "190",
+        "id": "onvcAGYi3inQEurIdDwBDA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Network/FormData.js",
+            "react-native/Libraries/Network/FormData",
+            "FormData"
+        ],
+        "shortname": "FormData",
+        "ios": "214",
+        "android": "191",
+        "id": "Y7bP7emcXw7oGnz/QX7HHA"
+    },
+    {
+        "version": "1.1.1",
+        "versionRange": null,
+        "names": [
+            "event-target-shim/lib/event-target.js",
+            "event-target-shim/lib/event-target",
+            "event-target-shim"
+        ],
+        "shortname": "event-target-shim",
+        "ios": "215",
+        "android": "192",
+        "id": "O5ghvgXxsAkPdwpXNo7g7g"
+    },
+    {
+        "version": "1.1.1",
+        "versionRange": null,
+        "names": [
+            "event-target-shim/lib/commons.js",
+            "event-target-shim/lib/commons"
+        ],
+        "shortname": "event-target-shim/lib/commons",
+        "ios": "216",
+        "android": "193",
+        "id": "iSjibIeo4kAdK52rxa25Ww"
+    },
+    {
+        "version": "1.1.1",
+        "versionRange": null,
+        "names": [
+            "event-target-shim/lib/custom-event-target.js",
+            "event-target-shim/lib/custom-event-target"
+        ],
+        "shortname": "event-target-shim/lib/custom-event-target",
+        "ios": "217",
+        "android": "194",
+        "id": "argHmUrIuyfJXBa3HpnaRQ"
+    },
+    {
+        "version": "1.1.1",
+        "versionRange": null,
+        "names": [
+            "event-target-shim/lib/event-wrapper.js",
+            "event-target-shim/lib/event-wrapper"
+        ],
+        "shortname": "event-target-shim/lib/event-wrapper",
+        "ios": "218",
+        "android": "195",
+        "id": "URoFRw4lR8OpsKMlS5hvhg"
+    },
+    {
+        "version": "1.2.0",
+        "versionRange": null,
+        "names": [
+            "base64-js/index.js",
+            "base64-js/index",
+            "base64-js"
+        ],
+        "shortname": "base64-js",
+        "ios": "219",
+        "android": "196",
+        "id": "bVA+LhrXEPJpIh/lujI+kQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Network/fetch.js",
+            "react-native/Libraries/Network/fetch",
+            "fetch"
+        ],
+        "shortname": "fetch",
+        "ios": "220",
+        "android": "197",
+        "id": "FhXd6iZWX8jNngXBmhmx7A"
+    },
+    {
+        "version": "1.1.1",
+        "versionRange": null,
+        "names": [
+            "whatwg-fetch/fetch.js",
+            "whatwg-fetch/fetch",
+            "whatwg-fetch"
+        ],
+        "shortname": "whatwg-fetch",
+        "ios": "221",
+        "android": "198",
+        "id": "kTxJpuCOGDy80u/mJnRIjg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/WebSocket/WebSocket.js",
+            "react-native/Libraries/WebSocket/WebSocket",
+            "WebSocket"
+        ],
+        "shortname": "WebSocket",
+        "ios": "222",
+        "android": "199",
+        "id": "62cNu7Eb7a7tPrBpMImt7A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/WebSocket/WebSocketEvent.js",
+            "react-native/Libraries/WebSocket/WebSocketEvent",
+            "WebSocketEvent"
+        ],
+        "shortname": "WebSocketEvent",
+        "ios": "223",
+        "android": "200",
+        "id": "54KI91CQaHrn+UjJV1e0+g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Geolocation/Geolocation.js",
+            "react-native/Libraries/Geolocation/Geolocation",
+            "Geolocation"
+        ],
+        "shortname": "Geolocation",
+        "ios": "224",
+        "android": "201",
+        "id": "pFj59GFihFN/h/+xcqTFyQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/RCTNativeAppEventEmitter.js",
+            "react-native/Libraries/EventEmitter/RCTNativeAppEventEmitter",
+            "RCTNativeAppEventEmitter"
+        ],
+        "shortname": "RCTNativeAppEventEmitter",
+        "ios": "225",
+        "android": "208",
+        "id": "HqSGKneLW62YHraHwjg/HQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/PerformanceLogger.js",
+            "react-native/Libraries/Utilities/PerformanceLogger",
+            "PerformanceLogger"
+        ],
+        "shortname": "PerformanceLogger",
+        "ios": "226",
+        "android": "209",
+        "id": "BtXC2bhIhoZlZaKvhrlnLQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/RCTEventEmitter.js",
+            "react-native/lib/RCTEventEmitter"
+        ],
+        "shortname": "react-native/lib/RCTEventEmitter",
+        "ios": "227",
+        "android": "210",
+        "id": "iD4jQJbtpRd19n4OfYUc+Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/RCTEventEmitter.js",
+            "react-native/Libraries/EventEmitter/RCTEventEmitter",
+            "RCTEventEmitter"
+        ],
+        "shortname": "RCTEventEmitter",
+        "ios": "228",
+        "android": "211",
+        "id": "eEBH9PVnZLJy6RdiQeXMgg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactDefaultBatchingStrategy.js",
+            "react/lib/ReactDefaultBatchingStrategy",
+            "ReactDefaultBatchingStrategy"
+        ],
+        "shortname": "ReactDefaultBatchingStrategy",
+        "ios": "229",
+        "android": "212",
+        "id": "dQBOdC4Uil3lJd254Jb2BA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeBridgeEventPlugin.js",
+            "react/lib/ReactNativeBridgeEventPlugin",
+            "ReactNativeBridgeEventPlugin"
+        ],
+        "shortname": "ReactNativeBridgeEventPlugin",
+        "ios": "230",
+        "android": "213",
+        "id": "pFw3WDDT3GjUrUjZ6F0Huw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/EventPropagators.js",
+            "react/lib/EventPropagators",
+            "EventPropagators"
+        ],
+        "shortname": "EventPropagators",
+        "ios": "231",
+        "android": "214",
+        "id": "dlUTfZzFoUt7Ty4t0N6gdQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/SyntheticEvent.js",
+            "react/lib/SyntheticEvent",
+            "SyntheticEvent"
+        ],
+        "shortname": "SyntheticEvent",
+        "ios": "232",
+        "android": "215",
+        "id": "jeI/4jLzx3RuMNVFt+WoEA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeComponentEnvironment.js",
+            "react/lib/ReactNativeComponentEnvironment",
+            "ReactNativeComponentEnvironment"
+        ],
+        "shortname": "ReactNativeComponentEnvironment",
+        "ios": "233",
+        "android": "216",
+        "id": "NbhYHdaxxktIlIVEBxtnkQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeDOMIDOperations.js",
+            "react/lib/ReactNativeDOMIDOperations",
+            "ReactNativeDOMIDOperations"
+        ],
+        "shortname": "ReactNativeDOMIDOperations",
+        "ios": "234",
+        "android": "217",
+        "id": "D27W1rDtPkp6NxkGgU7RSA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeReconcileTransaction.js",
+            "react/lib/ReactNativeReconcileTransaction",
+            "ReactNativeReconcileTransaction"
+        ],
+        "shortname": "ReactNativeReconcileTransaction",
+        "ios": "235",
+        "android": "218",
+        "id": "t1t/T2MyiUxswur7PAiIyA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactUpdateQueue.js",
+            "react/lib/ReactUpdateQueue",
+            "ReactUpdateQueue"
+        ],
+        "shortname": "ReactUpdateQueue",
+        "ios": "236",
+        "android": "219",
+        "id": "8akOLdFbdKnm2mlYf3GsyA"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeEventPluginOrder.js",
+            "react/lib/ReactNativeEventPluginOrder",
+            "ReactNativeEventPluginOrder"
+        ],
+        "shortname": "ReactNativeEventPluginOrder",
+        "ios": "237",
+        "android": "220",
+        "id": "NHsRT5uuEmncxq8UXVd+YQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeGlobalResponderHandler.js",
+            "react/lib/ReactNativeGlobalResponderHandler",
+            "ReactNativeGlobalResponderHandler"
+        ],
+        "shortname": "ReactNativeGlobalResponderHandler",
+        "ios": "238",
+        "android": "221",
+        "id": "BLsUDyi99s3VcZHOPhG37g"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeTextComponent.js",
+            "react/lib/ReactNativeTextComponent",
+            "ReactNativeTextComponent"
+        ],
+        "shortname": "ReactNativeTextComponent",
+        "ios": "239",
+        "android": "222",
+        "id": "q04e1FJpqOI5D4nny2lXOQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeTreeTraversal.js",
+            "react/lib/ReactNativeTreeTraversal",
+            "ReactNativeTreeTraversal"
+        ],
+        "shortname": "ReactNativeTreeTraversal",
+        "ios": "240",
+        "android": "223",
+        "id": "8yqAYlhSaQgB17b2nUqayg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactSimpleEmptyComponent.js",
+            "react/lib/ReactSimpleEmptyComponent",
+            "ReactSimpleEmptyComponent"
+        ],
+        "shortname": "ReactSimpleEmptyComponent",
+        "ios": "241",
+        "android": "224",
+        "id": "jQiqQXyFiODRLFIp3F7zow"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ResponderEventPlugin.js",
+            "react/lib/ResponderEventPlugin",
+            "ResponderEventPlugin"
+        ],
+        "shortname": "ResponderEventPlugin",
+        "ios": "242",
+        "android": "225",
+        "id": "COCZPlIeYtQFrRDDkmbTIw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ResponderSyntheticEvent.js",
+            "react/lib/ResponderSyntheticEvent",
+            "ResponderSyntheticEvent"
+        ],
+        "shortname": "ResponderSyntheticEvent",
+        "ios": "243",
+        "android": "226",
+        "id": "RFRS8P40m+kHEfNQiQiwPg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ResponderTouchHistoryStore.js",
+            "react/lib/ResponderTouchHistoryStore",
+            "ResponderTouchHistoryStore"
+        ],
+        "shortname": "ResponderTouchHistoryStore",
+        "ios": "244",
+        "android": "227",
+        "id": "INpEB75ncJ7QYG54rQ50ZQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/accumulate.js",
+            "react/lib/accumulate",
+            "accumulate"
+        ],
+        "shortname": "accumulate",
+        "ios": "245",
+        "android": "228",
+        "id": "iAqlHksMyDlGfgQFcdgBmA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/lib/View.js",
+            "react-native/lib/View"
+        ],
+        "shortname": "react-native/lib/View",
+        "ios": "246",
+        "android": "229",
+        "id": "AqQarHRpal4lJu4OGyyM6w"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeMount.js",
+            "react/lib/ReactNativeMount",
+            "ReactNativeMount"
+        ],
+        "shortname": "ReactNativeMount",
+        "ios": "247",
+        "android": "230",
+        "id": "hhX6SaFOsczEi1WMzmXSWQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactNativeContainerInfo.js",
+            "react/lib/ReactNativeContainerInfo",
+            "ReactNativeContainerInfo"
+        ],
+        "shortname": "ReactNativeContainerInfo",
+        "ios": "248",
+        "android": "231",
+        "id": "qDgXNXXZA/wO9KvBtx+G2A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ScrollResponder.js",
+            "react-native/Libraries/Components/ScrollResponder",
+            "ScrollResponder"
+        ],
+        "shortname": "ScrollResponder",
+        "ios": "249",
+        "android": "252",
+        "id": "4XptYqniXRECloQU75FwpQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Subscribable.js",
+            "react-native/Libraries/Components/Subscribable",
+            "Subscribable"
+        ],
+        "shortname": "Subscribable",
+        "ios": "250",
+        "android": "253",
+        "id": "adywQ06qsGPc8OPo6Z2KgA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ScrollView/processDecelerationRate.js",
+            "react-native/Libraries/Components/ScrollView/processDecelerationRate",
+            "processDecelerationRate"
+        ],
+        "shortname": "processDecelerationRate",
+        "ios": "251",
+        "android": "254",
+        "id": "Dt0gIZBCka4q/asUJYfqMg"
+    },
+    {
+        "version": "0.13.3",
+        "versionRange": null,
+        "names": [
+            "react-timer-mixin/TimerMixin.js",
+            "react-timer-mixin/TimerMixin",
+            "react-timer-mixin"
+        ],
+        "shortname": "react-timer-mixin",
+        "ios": "252",
+        "android": "233",
+        "id": "p0Gt9he9DDcv2/PXk4XJFg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/TouchableWithoutFeedback.js",
+            "react-native/Libraries/Components/Touchable/TouchableWithoutFeedback",
+            "TouchableWithoutFeedback"
+        ],
+        "shortname": "TouchableWithoutFeedback",
+        "ios": "253",
+        "android": "232",
+        "id": "FSqLRdL7rqvhKy6PQNHkyw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/ensurePositiveDelayProps.js",
+            "react-native/Libraries/Components/Touchable/ensurePositiveDelayProps",
+            "ensurePositiveDelayProps"
+        ],
+        "shortname": "ensurePositiveDelayProps",
+        "ios": "254",
+        "android": "234",
+        "id": "jysFcIA9Pp0pCDujDQLbIg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/DatePicker/DatePickerIOS.ios.js",
+            "react-native/Libraries/Components/DatePicker/DatePickerIOS.ios",
+            "DatePickerIOS"
+        ],
+        "shortname": "DatePickerIOS",
+        "ios": "255",
+        "android": "255",
+        "id": "/oDSsUHTwOQ07JCgff0GRw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/DrawerAndroid/DrawerLayoutAndroid.ios.js",
+            "react-native/Libraries/Components/DrawerAndroid/DrawerLayoutAndroid.ios",
+            "DrawerLayoutAndroid"
+        ],
+        "shortname": "DrawerLayoutAndroid",
+        "ios": "256",
+        "android": "256",
+        "id": "zZAZkAq5eljGLCcDrmT+sg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/ImageEditor.js",
+            "react-native/Libraries/Image/ImageEditor",
+            "ImageEditor"
+        ],
+        "shortname": "ImageEditor",
+        "ios": "257",
+        "android": "258",
+        "id": "Ej4XMQRC1mEVlCEawASlJw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Image/ImageStore.js",
+            "react-native/Libraries/Image/ImageStore",
+            "ImageStore"
+        ],
+        "shortname": "ImageStore",
+        "ios": "258",
+        "android": "259",
+        "id": "YbsTnDIsClMjyXTMcM3Kqg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js",
+            "react-native/Libraries/Components/Keyboard/KeyboardAvoidingView",
+            "KeyboardAvoidingView"
+        ],
+        "shortname": "KeyboardAvoidingView",
+        "ios": "259",
+        "android": "260",
+        "id": "yRUXTQzIR23nDr7d9Vzjjg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/LayoutAnimation/LayoutAnimation.js",
+            "react-native/Libraries/LayoutAnimation/LayoutAnimation",
+            "LayoutAnimation"
+        ],
+        "shortname": "LayoutAnimation",
+        "ios": "260",
+        "android": "261",
+        "id": "pw5iBzehJlvrahkTifq5ng"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/ListView/ListView.js",
+            "react-native/Libraries/CustomComponents/ListView/ListView",
+            "ListView"
+        ],
+        "shortname": "ListView",
+        "ios": "261",
+        "android": "262",
+        "id": "5n5soLuVPStbSlQ6z7Zkvw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/ListView/ListViewDataSource.js",
+            "react-native/Libraries/CustomComponents/ListView/ListViewDataSource",
+            "ListViewDataSource"
+        ],
+        "shortname": "ListViewDataSource",
+        "ios": "262",
+        "android": "263",
+        "id": "BzkU3SZFAAs02EiK9U6ZqA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/isEmpty.js",
+            "react-native/Libraries/vendor/core/isEmpty",
+            "isEmpty"
+        ],
+        "shortname": "isEmpty",
+        "ios": "263",
+        "android": "264",
+        "id": "yIeaiTfvUTLyUFGvYDWP4A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/StaticRenderer.js",
+            "react-native/Libraries/Components/StaticRenderer",
+            "StaticRenderer"
+        ],
+        "shortname": "StaticRenderer",
+        "ios": "264",
+        "android": "265",
+        "id": "gTMAIQtOxStNQzGYRvZ3+w"
+    },
+    {
+        "version": "1.0.1",
+        "versionRange": null,
+        "names": [
+            "react-clone-referenced-element/cloneReferencedElement.js",
+            "react-clone-referenced-element/cloneReferencedElement",
+            "react-clone-referenced-element"
+        ],
+        "shortname": "react-clone-referenced-element",
+        "ios": "265",
+        "android": "266",
+        "id": "SYPaFYwKkX5UlShYabwBSg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/MapView/MapView.js",
+            "react-native/Libraries/Components/MapView/MapView",
+            "MapView"
+        ],
+        "shortname": "MapView",
+        "ios": "266",
+        "android": "267",
+        "id": "yX7dSKrP/XyCwPFS28euow"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Modal/Modal.js",
+            "react-native/Libraries/Modal/Modal",
+            "Modal"
+        ],
+        "shortname": "Modal",
+        "ios": "267",
+        "android": "268",
+        "id": "Ps/G/S1JUDJLHrVFJjX54Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ReactNative/AppContainer.js",
+            "react-native/Libraries/ReactNative/AppContainer",
+            "AppContainer"
+        ],
+        "shortname": "AppContainer",
+        "ios": "268",
+        "android": "269",
+        "id": "SOf7rNka6gEEuivdXzOeDQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ReactNative/I18nManager.js",
+            "react-native/Libraries/ReactNative/I18nManager",
+            "I18nManager"
+        ],
+        "shortname": "I18nManager",
+        "ios": "269",
+        "android": "270",
+        "id": "8KdXJE/8drMaITfrvomQfQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/Navigator.js",
+            "react-native/Libraries/CustomComponents/Navigator/Navigator",
+            "Navigator"
+        ],
+        "shortname": "Navigator",
+        "ios": "270",
+        "android": "271",
+        "id": "fBnc5ELhBf0gGI9ATYI4iw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Interaction/InteractionMixin.js",
+            "react-native/Libraries/Interaction/InteractionMixin",
+            "InteractionMixin"
+        ],
+        "shortname": "InteractionMixin",
+        "ios": "271",
+        "android": "272",
+        "id": "FuEw2EUOCITNhH0gxMwwyQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationContext.js",
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationContext",
+            "NavigationContext"
+        ],
+        "shortname": "NavigationContext",
+        "ios": "272",
+        "android": "273",
+        "id": "QYoMwxXTql4TxM+qafw8ig"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationEvent.js",
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationEvent",
+            "NavigationEvent"
+        ],
+        "shortname": "NavigationEvent",
+        "ios": "273",
+        "android": "274",
+        "id": "7k9NzcCmqfOwLI318H40PA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationEventEmitter.js",
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationEventEmitter",
+            "NavigationEventEmitter"
+        ],
+        "shortname": "NavigationEventEmitter",
+        "ios": "274",
+        "android": "275",
+        "id": "6Q4vacsf/0thq5iyjFO3sA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationTreeNode.js",
+            "react-native/Libraries/CustomComponents/Navigator/Navigation/NavigationTreeNode",
+            "NavigationTreeNode"
+        ],
+        "shortname": "NavigationTreeNode",
+        "ios": "275",
+        "android": "276",
+        "id": "YWoX4Ru/ttI+Bv1NG8MVfg"
+    },
+    {
+        "version": "3.7.6",
+        "versionRange": null,
+        "names": [
+            "immutable/dist/immutable.js",
+            "immutable/dist/immutable",
+            "immutable"
+        ],
+        "shortname": "immutable",
+        "ios": "276",
+        "android": "277",
+        "id": "9aGJPd8BsfNxju9x5qp9EA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorBreadcrumbNavigationBar.js",
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorBreadcrumbNavigationBar",
+            "NavigatorBreadcrumbNavigationBar"
+        ],
+        "shortname": "NavigatorBreadcrumbNavigationBar",
+        "ios": "277",
+        "android": "278",
+        "id": "IdiZg2RHWB7vUupqLCmD4w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorBreadcrumbNavigationBarStyles.ios.js",
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorBreadcrumbNavigationBarStyles.ios",
+            "NavigatorBreadcrumbNavigationBarStyles"
+        ],
+        "shortname": "NavigatorBreadcrumbNavigationBarStyles",
+        "ios": "278",
+        "android": "279",
+        "id": "mq9fCQt5ZhIKiuGKecpjFA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorNavigationBarStylesIOS.js",
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorNavigationBarStylesIOS",
+            "NavigatorNavigationBarStylesIOS"
+        ],
+        "shortname": "NavigatorNavigationBarStylesIOS",
+        "ios": "279",
+        "android": "282",
+        "id": "cu2znOVzJBVUMjNK+sLYGw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/buildStyleInterpolator.js",
+            "react-native/Libraries/Utilities/buildStyleInterpolator",
+            "buildStyleInterpolator"
+        ],
+        "shortname": "buildStyleInterpolator",
+        "ios": "280",
+        "android": "281",
+        "id": "BVMQyzEuO130YM4AraXRvA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorNavigationBarStylesAndroid.js",
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorNavigationBarStylesAndroid",
+            "NavigatorNavigationBarStylesAndroid"
+        ],
+        "shortname": "NavigatorNavigationBarStylesAndroid",
+        "ios": "281",
+        "android": "280",
+        "id": "WkWAGkquWzcHOEEBKYZmGQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorNavigationBar.js",
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorNavigationBar",
+            "NavigatorNavigationBar"
+        ],
+        "shortname": "NavigatorNavigationBar",
+        "ios": "282",
+        "android": "283",
+        "id": "bMMn1jYCIGZWasVNtWHOvQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorSceneConfigs.js",
+            "react-native/Libraries/CustomComponents/Navigator/NavigatorSceneConfigs",
+            "NavigatorSceneConfigs"
+        ],
+        "shortname": "NavigatorSceneConfigs",
+        "ios": "283",
+        "android": "284",
+        "id": "EDSwyLWlZIiz5/4TW1+n1w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Interaction/PanResponder.js",
+            "react-native/Libraries/Interaction/PanResponder",
+            "PanResponder"
+        ],
+        "shortname": "PanResponder",
+        "ios": "284",
+        "android": "285",
+        "id": "mAkmkIvWhfu6VKUTCqIMCQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/TouchHistoryMath.js",
+            "react/lib/TouchHistoryMath",
+            "TouchHistoryMath"
+        ],
+        "shortname": "TouchHistoryMath",
+        "ios": "285",
+        "android": "286",
+        "id": "S0uOlqT4Ec3JeX/7PoOg7A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/clamp.js",
+            "react-native/Libraries/Utilities/clamp",
+            "clamp"
+        ],
+        "shortname": "clamp",
+        "ios": "286",
+        "android": "287",
+        "id": "Sv2FtoClK/UA/XOG+ji+Rg"
+    },
+    {
+        "version": "0.0.13",
+        "versionRange": null,
+        "names": [
+            "rebound/rebound.js",
+            "rebound/rebound",
+            "rebound"
+        ],
+        "shortname": "rebound",
+        "ios": "287",
+        "android": "288",
+        "id": "xIFfkJei6wyz1yQNdDYFLg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Navigation/NavigatorIOS.ios.js",
+            "react-native/Libraries/Components/Navigation/NavigatorIOS.ios",
+            "NavigatorIOS"
+        ],
+        "shortname": "NavigatorIOS",
+        "ios": "288",
+        "android": "289",
+        "id": "TCHNUTH3V2BnRTQZdmMJZQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Picker/Picker.js",
+            "react-native/Libraries/Components/Picker/Picker",
+            "Picker"
+        ],
+        "shortname": "Picker",
+        "ios": "290",
+        "android": "290",
+        "id": "acF/s6N+chLtOKeEQtGLzg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Picker/PickerIOS.ios.js",
+            "react-native/Libraries/Components/Picker/PickerIOS.ios",
+            "PickerIOS"
+        ],
+        "shortname": "PickerIOS",
+        "ios": "291",
+        "android": "291",
+        "id": "ilgG9pWscciUqUh/KBEWoA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Picker/PickerAndroid.ios.js",
+            "react-native/Libraries/Components/Picker/PickerAndroid.ios",
+            "PickerAndroid"
+        ],
+        "shortname": "PickerAndroid",
+        "ios": "292",
+        "android": "292",
+        "id": "4H4kB7nXtcEg/+/18li7sA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ProgressBarAndroid/ProgressBarAndroid.ios.js",
+            "react-native/Libraries/Components/ProgressBarAndroid/ProgressBarAndroid.ios",
+            "ProgressBarAndroid"
+        ],
+        "shortname": "ProgressBarAndroid",
+        "ios": "293",
+        "android": "293",
+        "id": "VFKmeCb1H2GRNv27bUChIQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js",
+            "react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios",
+            "ProgressViewIOS"
+        ],
+        "shortname": "ProgressViewIOS",
+        "ios": "294",
+        "android": "294",
+        "id": "JDZanMrSebcps/BAyK4hSQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js",
+            "react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios",
+            "SegmentedControlIOS"
+        ],
+        "shortname": "SegmentedControlIOS",
+        "ios": "295",
+        "android": "295",
+        "id": "CStFMo1/zxwTXFu12JbP8A"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Slider/Slider.js",
+            "react-native/Libraries/Components/Slider/Slider",
+            "Slider"
+        ],
+        "shortname": "Slider",
+        "ios": "296",
+        "android": "296",
+        "id": "FfmcZGc9E/hHiLFOWqBAbQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js",
+            "react-native/Libraries/RCTTest/SnapshotViewIOS.ios",
+            "SnapshotViewIOS"
+        ],
+        "shortname": "SnapshotViewIOS",
+        "ios": "297",
+        "android": "297",
+        "id": "ei0eQWXbv/iqxEHXmlWrzg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Switch/Switch.js",
+            "react-native/Libraries/Components/Switch/Switch",
+            "Switch"
+        ],
+        "shortname": "Switch",
+        "ios": "298",
+        "android": "298",
+        "id": "Plfl2gG6teTbpgye2+GOAg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ScrollView/RecyclerViewBackedScrollView.ios.js",
+            "react-native/Libraries/Components/ScrollView/RecyclerViewBackedScrollView.ios",
+            "RecyclerViewBackedScrollView"
+        ],
+        "shortname": "RecyclerViewBackedScrollView",
+        "ios": "299",
+        "android": "299",
+        "id": "oHBLcz3blfKipzdUk7UjVw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/RefreshControl/RefreshControl.js",
+            "react-native/Libraries/Components/RefreshControl/RefreshControl",
+            "RefreshControl"
+        ],
+        "shortname": "RefreshControl",
+        "ios": "300",
+        "android": "300",
+        "id": "n45UyXbyFqgf/dtsBJMyhw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/StatusBar/StatusBar.js",
+            "react-native/Libraries/Components/StatusBar/StatusBar",
+            "StatusBar"
+        ],
+        "shortname": "StatusBar",
+        "ios": "301",
+        "android": "257",
+        "id": "qhTJaos5Aed4xYFcywEx1Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js",
+            "react-native/Libraries/Experimental/SwipeableRow/SwipeableListView",
+            "SwipeableListView"
+        ],
+        "shortname": "SwipeableListView",
+        "ios": "302",
+        "android": "301",
+        "id": "hVqrH5d8BrX2ItVkxO93BA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Experimental/SwipeableRow/SwipeableListViewDataSource.js",
+            "react-native/Libraries/Experimental/SwipeableRow/SwipeableListViewDataSource",
+            "SwipeableListViewDataSource"
+        ],
+        "shortname": "SwipeableListViewDataSource",
+        "ios": "303",
+        "android": "302",
+        "id": "K0QStE7bAsejyoLjTqd/hA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Experimental/SwipeableRow/SwipeableRow.js",
+            "react-native/Libraries/Experimental/SwipeableRow/SwipeableRow",
+            "SwipeableRow"
+        ],
+        "shortname": "SwipeableRow",
+        "ios": "304",
+        "android": "303",
+        "id": "KOixLnzKphnr1dF3jfKiqA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios.js",
+            "react-native/Libraries/Components/TabBarIOS/TabBarIOS.ios",
+            "TabBarIOS"
+        ],
+        "shortname": "TabBarIOS",
+        "ios": "305",
+        "android": "304",
+        "id": "HUwGj/Hql9jNBJO6SNPVqg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/TextInput/TextInput.js",
+            "react-native/Libraries/Components/TextInput/TextInput",
+            "TextInput"
+        ],
+        "shortname": "TextInput",
+        "ios": "307",
+        "android": "305",
+        "id": "ixkiUGeye56AtN3bxdOt1Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/document/selection/DocumentSelectionState.js",
+            "react-native/Libraries/vendor/document/selection/DocumentSelectionState",
+            "DocumentSelectionState"
+        ],
+        "shortname": "DocumentSelectionState",
+        "ios": "308",
+        "android": "306",
+        "id": "j09o40SDoOczTL3OpU37aQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/mixInEventEmitter.js",
+            "react-native/Libraries/EventEmitter/mixInEventEmitter",
+            "mixInEventEmitter"
+        ],
+        "shortname": "mixInEventEmitter",
+        "ios": "309",
+        "android": "307",
+        "id": "nZJRTngy7Gp/iD22zkQdfQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/EventEmitterWithHolding.js",
+            "react-native/Libraries/EventEmitter/EventEmitterWithHolding",
+            "EventEmitterWithHolding"
+        ],
+        "shortname": "EventEmitterWithHolding",
+        "ios": "310",
+        "android": "308",
+        "id": "Brx8vjrc5LxVorqHEFUQpQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/EventHolder.js",
+            "react-native/Libraries/EventEmitter/EventHolder",
+            "EventHolder"
+        ],
+        "shortname": "EventHolder",
+        "ios": "311",
+        "android": "309",
+        "id": "zkBpD0FzP2vqeSNk2M7unQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/EventEmitter/EventValidator.js",
+            "react-native/Libraries/EventEmitter/EventValidator",
+            "EventValidator"
+        ],
+        "shortname": "EventValidator",
+        "ios": "312",
+        "android": "310",
+        "id": "PzAPeaooRhrCeoJBgDpp7g"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/vendor/core/copyProperties.js",
+            "react-native/Libraries/vendor/core/copyProperties",
+            "copyProperties"
+        ],
+        "shortname": "copyProperties",
+        "ios": "313",
+        "android": "311",
+        "id": "b97lYDN82V6V2HCNKkTZWw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ToastAndroid/ToastAndroid.ios.js",
+            "react-native/Libraries/Components/ToastAndroid/ToastAndroid.ios",
+            "ToastAndroid"
+        ],
+        "shortname": "ToastAndroid",
+        "ios": "314",
+        "android": "312",
+        "id": "NSaK5jUk5/Jzdbf87X3JtA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ToolbarAndroid/ToolbarAndroid.ios.js",
+            "react-native/Libraries/Components/ToolbarAndroid/ToolbarAndroid.ios",
+            "ToolbarAndroid"
+        ],
+        "shortname": "ToolbarAndroid",
+        "ios": "315",
+        "android": "313",
+        "id": "4ryFy8uoHT3YFlrPV2KZSA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/TouchableHighlight.js",
+            "react-native/Libraries/Components/Touchable/TouchableHighlight",
+            "TouchableHighlight"
+        ],
+        "shortname": "TouchableHighlight",
+        "ios": "316",
+        "android": "314",
+        "id": "nOM5yQ09oIdFXjwtcdaMYw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Touchable/ensureComponentIsNative.js",
+            "react-native/Libraries/Components/Touchable/ensureComponentIsNative",
+            "ensureComponentIsNative"
+        ],
+        "shortname": "ensureComponentIsNative",
+        "ios": "317",
+        "android": "315",
+        "id": "srq1tFNlrSxuOZBAieTKCg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/ViewPager/ViewPagerAndroid.ios.js",
+            "react-native/Libraries/Components/ViewPager/ViewPagerAndroid.ios",
+            "ViewPagerAndroid"
+        ],
+        "shortname": "ViewPagerAndroid",
+        "ios": "318",
+        "android": "316",
+        "id": "WiHEGTE60YnFQVhKa9JKLQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/WebView/WebView.ios.js",
+            "react-native/Libraries/Components/WebView/WebView.ios",
+            "WebView"
+        ],
+        "shortname": "WebView",
+        "ios": "319",
+        "android": "317",
+        "id": "a8foe4usRXp4xvgzW5Y3kg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ActionSheetIOS/ActionSheetIOS.js",
+            "react-native/Libraries/ActionSheetIOS/ActionSheetIOS",
+            "ActionSheetIOS"
+        ],
+        "shortname": "ActionSheetIOS",
+        "ios": "320",
+        "android": "318",
+        "id": "IdJsoGwTZQEFf8R83BmqjQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/AdSupport/AdSupportIOS.js",
+            "react-native/Libraries/AdSupport/AdSupportIOS",
+            "AdSupportIOS"
+        ],
+        "shortname": "AdSupportIOS",
+        "ios": "321",
+        "android": "319",
+        "id": "xmsnYVBPdNtlIap1hd8HLg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ReactNative/AppRegistry.js",
+            "react-native/Libraries/ReactNative/AppRegistry",
+            "AppRegistry"
+        ],
+        "shortname": "AppRegistry",
+        "ios": "322",
+        "android": "320",
+        "id": "arimx1o0YbBNZnS7dQnwkg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/BugReporting/BugReporting.js",
+            "react-native/Libraries/BugReporting/BugReporting",
+            "BugReporting"
+        ],
+        "shortname": "BugReporting",
+        "ios": "323",
+        "android": "321",
+        "id": "HJw4EXNsr/MqKIpHGJRTKw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/BugReporting/dumpReactTree.js",
+            "react-native/Libraries/BugReporting/dumpReactTree",
+            "dumpReactTree"
+        ],
+        "shortname": "dumpReactTree",
+        "ios": "324",
+        "android": "322",
+        "id": "qWPDDjtAz4LPXGMNqqzKAQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/BugReporting/getReactData.js",
+            "react-native/Libraries/BugReporting/getReactData",
+            "getReactData"
+        ],
+        "shortname": "getReactData",
+        "ios": "325",
+        "android": "323",
+        "id": "3883GoOw8Y5GQWPLlLuZug"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/ReactNative/renderApplication.js",
+            "react-native/Libraries/ReactNative/renderApplication",
+            "renderApplication"
+        ],
+        "shortname": "renderApplication",
+        "ios": "326",
+        "android": "324",
+        "id": "ozZC1qlPCAY1SQB0mEXoig"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Utilities/BackAndroid.ios.js",
+            "react-native/Libraries/Utilities/BackAndroid.ios",
+            "BackAndroid"
+        ],
+        "shortname": "BackAndroid",
+        "ios": "327",
+        "android": "325",
+        "id": "I7YzeMtAt9nv2oACmcLNmg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Storage/AsyncStorage.js",
+            "react-native/Libraries/Storage/AsyncStorage",
+            "AsyncStorage"
+        ],
+        "shortname": "AsyncStorage",
+        "ios": "328",
+        "android": "326",
+        "id": "WUi0ryhUYEZ7FaJTE96yQg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CameraRoll/CameraRoll.js",
+            "react-native/Libraries/CameraRoll/CameraRoll",
+            "CameraRoll"
+        ],
+        "shortname": "CameraRoll",
+        "ios": "329",
+        "android": "327",
+        "id": "fPatgaWnQ35D1g46ACrFGg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/Clipboard/Clipboard.js",
+            "react-native/Libraries/Components/Clipboard/Clipboard",
+            "Clipboard"
+        ],
+        "shortname": "Clipboard",
+        "ios": "330",
+        "android": "328",
+        "id": "Ic9Dcp+wCj89fB/QxEMGIw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/DatePickerAndroid/DatePickerAndroid.ios.js",
+            "react-native/Libraries/Components/DatePickerAndroid/DatePickerAndroid.ios",
+            "DatePickerAndroid"
+        ],
+        "shortname": "DatePickerAndroid",
+        "ios": "331",
+        "android": "329",
+        "id": "nBmX7PSsIySb4527u9LjWA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CameraRoll/ImagePickerIOS.js",
+            "react-native/Libraries/CameraRoll/ImagePickerIOS",
+            "ImagePickerIOS"
+        ],
+        "shortname": "ImagePickerIOS",
+        "ios": "332",
+        "android": "330",
+        "id": "NSFbyyDqMAXEkufIPFJXTw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Linking/Linking.js",
+            "react-native/Libraries/Linking/Linking",
+            "Linking"
+        ],
+        "shortname": "Linking",
+        "ios": "333",
+        "android": "331",
+        "id": "BTkEvzMqNEfmXJN9dJtyPg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/NavigationExperimental/NavigationExperimental.js",
+            "react-native/Libraries/NavigationExperimental/NavigationExperimental",
+            "NavigationExperimental"
+        ],
+        "shortname": "NavigationExperimental",
+        "ios": "334",
+        "android": "332",
+        "id": "EglRbbr+TYtj+Mp+1cwdGg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCard.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCard",
+            "NavigationCard"
+        ],
+        "shortname": "NavigationCard",
+        "ios": "335",
+        "android": "333",
+        "id": "Q1jr8JsaIGodu3ByYdxrbA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCardStackPanResponder.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCardStackPanResponder",
+            "NavigationCardStackPanResponder"
+        ],
+        "shortname": "NavigationCardStackPanResponder",
+        "ios": "336",
+        "android": "334",
+        "id": "zSHYeW1xXR+7S8FhaO6K3Q"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/NavigationExperimental/NavigationAbstractPanResponder.js",
+            "react-native/Libraries/NavigationExperimental/NavigationAbstractPanResponder",
+            "NavigationAbstractPanResponder"
+        ],
+        "shortname": "NavigationAbstractPanResponder",
+        "ios": "337",
+        "android": "335",
+        "id": "ZR8hGi4DEpoKttfFpwOsMw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCardStackStyleInterpolator.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCardStackStyleInterpolator",
+            "NavigationCardStackStyleInterpolator"
+        ],
+        "shortname": "NavigationCardStackStyleInterpolator",
+        "ios": "338",
+        "android": "336",
+        "id": "OfptmIdcxG2bFGc/DMJGag"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationPagerPanResponder.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationPagerPanResponder",
+            "NavigationPagerPanResponder"
+        ],
+        "shortname": "NavigationPagerPanResponder",
+        "ios": "339",
+        "android": "337",
+        "id": "ot1MTyEomS+c1zuUiOqnBw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationPagerStyleInterpolator.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationPagerStyleInterpolator",
+            "NavigationPagerStyleInterpolator"
+        ],
+        "shortname": "NavigationPagerStyleInterpolator",
+        "ios": "340",
+        "android": "338",
+        "id": "3AK5jFy14xG0OAfAIt/QeQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationPointerEventsContainer.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationPointerEventsContainer",
+            "NavigationPointerEventsContainer"
+        ],
+        "shortname": "NavigationPointerEventsContainer",
+        "ios": "341",
+        "android": "339",
+        "id": "fz73oNYW2On6cidN3xadbg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationAnimatedValueSubscription.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationAnimatedValueSubscription",
+            "NavigationAnimatedValueSubscription"
+        ],
+        "shortname": "NavigationAnimatedValueSubscription",
+        "ios": "342",
+        "android": "340",
+        "id": "tBztCerDNIXlPrf7KtFIjw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/NavigationExperimental/NavigationPropTypes.js",
+            "react-native/Libraries/NavigationExperimental/NavigationPropTypes",
+            "NavigationPropTypes"
+        ],
+        "shortname": "NavigationPropTypes",
+        "ios": "343",
+        "android": "341",
+        "id": "nmnjlFAAXOopO4iNYR0sAA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCardStack.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationCardStack",
+            "NavigationCardStack"
+        ],
+        "shortname": "NavigationCardStack",
+        "ios": "344",
+        "android": "342",
+        "id": "+gjx9lhR4WWSCnLvTx22fQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/NavigationExperimental/NavigationTransitioner.js",
+            "react-native/Libraries/NavigationExperimental/NavigationTransitioner",
+            "NavigationTransitioner"
+        ],
+        "shortname": "NavigationTransitioner",
+        "ios": "345",
+        "android": "343",
+        "id": "xs0ID19t7HlqvhRNgsq7og"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/NavigationExperimental/Reducer/NavigationScenesReducer.js",
+            "react-native/Libraries/NavigationExperimental/Reducer/NavigationScenesReducer",
+            "NavigationScenesReducer"
+        ],
+        "shortname": "NavigationScenesReducer",
+        "ios": "346",
+        "android": "344",
+        "id": "ImaOa828vtCYVvZdE7Nmdg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeader.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeader",
+            "NavigationHeader"
+        ],
+        "shortname": "NavigationHeader",
+        "ios": "347",
+        "android": "345",
+        "id": "rUaPoYYlFLXRGeGrFRN8zQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeaderTitle.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeaderTitle",
+            "NavigationHeaderTitle"
+        ],
+        "shortname": "NavigationHeaderTitle",
+        "ios": "348",
+        "android": "346",
+        "id": "8veMiKllWaY54iNW7fYbuA"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeaderBackButton.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeaderBackButton",
+            "NavigationHeaderBackButton"
+        ],
+        "shortname": "NavigationHeaderBackButton",
+        "ios": "349",
+        "android": "347",
+        "id": "hznQ1wLoF56fq369ZvoVng"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeaderStyleInterpolator.js",
+            "react-native/Libraries/CustomComponents/NavigationExperimental/NavigationHeaderStyleInterpolator",
+            "NavigationHeaderStyleInterpolator"
+        ],
+        "shortname": "NavigationHeaderStyleInterpolator",
+        "ios": "351",
+        "android": "349",
+        "id": "1LHooxa3ZftEyY+Gf6C/8Q"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactComponentWithPureRenderMixin.js",
+            "react/lib/ReactComponentWithPureRenderMixin",
+            "ReactComponentWithPureRenderMixin"
+        ],
+        "shortname": "ReactComponentWithPureRenderMixin",
+        "ios": "352",
+        "android": "350",
+        "id": "h1UP1nCUJy8nCsNcSCRAZQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/shallowCompare.js",
+            "react/lib/shallowCompare",
+            "shallowCompare"
+        ],
+        "shortname": "shallowCompare",
+        "ios": "353",
+        "android": "351",
+        "id": "XrQ4bgvO5jnGGJ9LN3PQHQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/NavigationExperimental/NavigationStateUtils.js",
+            "react-native/Libraries/NavigationExperimental/NavigationStateUtils",
+            "NavigationStateUtils"
+        ],
+        "shortname": "NavigationStateUtils",
+        "ios": "354",
+        "android": "352",
+        "id": "eiW4Aij1JRKFrTYsCpdjpg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Network/NetInfo.js",
+            "react-native/Libraries/Network/NetInfo",
+            "NetInfo"
+        ],
+        "shortname": "NetInfo",
+        "ios": "355",
+        "android": "353",
+        "id": "B9I3Rc/vgVuqirtdLHBa4w"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/PermissionsAndroid/PermissionsAndroid.js",
+            "react-native/Libraries/PermissionsAndroid/PermissionsAndroid",
+            "PermissionsAndroid"
+        ],
+        "shortname": "PermissionsAndroid",
+        "ios": "356",
+        "android": "354",
+        "id": "9ML3V89NRsPfK63kGMdElw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/PushNotificationIOS/PushNotificationIOS.js",
+            "react-native/Libraries/PushNotificationIOS/PushNotificationIOS",
+            "PushNotificationIOS"
+        ],
+        "shortname": "PushNotificationIOS",
+        "ios": "357",
+        "android": "355",
+        "id": "L0hAmUI4JVSu8ld0ChQgng"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Settings/Settings.ios.js",
+            "react-native/Libraries/Settings/Settings.ios",
+            "Settings"
+        ],
+        "shortname": "Settings",
+        "ios": "358",
+        "android": "356",
+        "id": "Uh07zCjSqxmuTeuxHI5XJg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Share/Share.js",
+            "react-native/Libraries/Share/Share",
+            "Share"
+        ],
+        "shortname": "Share",
+        "ios": "359",
+        "android": "357",
+        "id": "iLiPvzNoGLl52ud+k8PWzw"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Components/TimePickerAndroid/TimePickerAndroid.ios.js",
+            "react-native/Libraries/Components/TimePickerAndroid/TimePickerAndroid.ios",
+            "TimePickerAndroid"
+        ],
+        "shortname": "TimePickerAndroid",
+        "ios": "360",
+        "android": "358",
+        "id": "sRXfWgH3b2xRoUJqwAkiqg"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Vibration/Vibration.js",
+            "react-native/Libraries/Vibration/Vibration",
+            "Vibration"
+        ],
+        "shortname": "Vibration",
+        "ios": "361",
+        "android": "359",
+        "id": "MdE2+ZWi7wNAmhtEzkryrQ"
+    },
+    {
+        "version": "0.37.0",
+        "versionRange": null,
+        "names": [
+            "react-native/Libraries/Vibration/VibrationIOS.ios.js",
+            "react-native/Libraries/Vibration/VibrationIOS.ios",
+            "VibrationIOS"
+        ],
+        "shortname": "VibrationIOS",
+        "ios": "362",
+        "android": "360",
+        "id": "pMC+SSts/ssAo29wTLdw3w"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/LinkedStateMixin.js",
+            "react/lib/LinkedStateMixin",
+            "LinkedStateMixin"
+        ],
+        "shortname": "LinkedStateMixin",
+        "ios": "363",
+        "android": "361",
+        "id": "Ef+iiFB4TjaBha+b7wR8eg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactLink.js",
+            "react/lib/ReactLink",
+            "ReactLink"
+        ],
+        "shortname": "ReactLink",
+        "ios": "364",
+        "android": "362",
+        "id": "4pCuFQ+HJ1iccnW5fr3RXQ"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactStateSetters.js",
+            "react/lib/ReactStateSetters",
+            "ReactStateSetters"
+        ],
+        "shortname": "ReactStateSetters",
+        "ios": "365",
+        "android": "363",
+        "id": "Xi30LBvENrtFXFw+yvhDzw"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/ReactFragment.js",
+            "react/lib/ReactFragment",
+            "ReactFragment"
+        ],
+        "shortname": "ReactFragment",
+        "ios": "366",
+        "android": "364",
+        "id": "6ErjMWTOlWciJ2/s5DNJJg"
+    },
+    {
+        "version": "15.3.2",
+        "versionRange": null,
+        "names": [
+            "react/lib/update.js",
+            "react/lib/update",
+            "update"
+        ],
+        "shortname": "update",
+        "ios": "367",
+        "android": "365",
+        "id": "JmuCZYgZ8AF9tAlMCRETVA"
+    }
+]
