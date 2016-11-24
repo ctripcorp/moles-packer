@@ -3,6 +3,7 @@
     // ...
 	{{ SYMBOL.global }}
 	{{ SYMBOL.require }}(['{{ entryName }}'], function(entry) {
-		{{ SYMBOL.execRequire }}('{{ entryName }}');
+	  var ret = {{ SYMBOL.execRequire }}('{{ entryName }}');
+    global.molesChange(ret.default);
 	}, {{ execOnRequired }});
 })();
